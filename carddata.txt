@@ -1,0 +1,127 @@
+Name	Set	Imgfile	Type	Keyword	Class
+Base, We Need Help!	Core	baseweneedhelp	Leader Action		
+Giant Punt	Core	giantpunt	Combat Move		
+Destroy the City	Core	destroythecity	Leader Action		
+Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
+Upgrade!	Core	upgrade	Leader Action	Robot	
+Reinforcements	Core	Reinforcements	Leader Action		
+Innocent Bystander	Core	innocentbystander	Leader Action		
+Injure	Core	injure	Combat Other		
+Aim	Core	aim	Combat Shoot		
+Armored Car	Core	armoredcar	Vehicle		
+Attack Plane	Core	attackplane	Vehicle		
+Compel	Core	compel	Combat Move		
+Deny Entry	Core	denyentry	Combat Move		
+Dodge	Core	dodge	Combat Other		
+Dragon Punch	Core	dragonpunch	Combat Bonus		
+Elbow Clan	Core	elbowclan	Ally		Mook
+Escape	Core	escape	Combat Move		
+Evade	Core	evade	Combat Other		
+Expel	Core	expel	Combat Move		
+Flash Entering	Core	flashentering	Combat Move		
+Hanzo's Katana	Core	hanzoskatana	Equipment		
+Hidrer Soldiers	Core	hirdrersoldiers	Ally		Mook
+Immobile	Core	immobile	Combat Bonus		
+Invade	Core	invade	Combat Move		
+Laser Shot	Core	lasershot	Combat Shoot		
+Leader Intervention	Core	leaderintervnetion	Leader Action		
+Living Baseball	Core	Livingbaseball	Ally		Robot
+Mama Help	Core	mamahelp	Leader Action		
+Marksmanship	Core	marksmanship	Combat Shoot		
+Mass Produced Katanas	Core	massproducedkatanas	Equipment	Elbow Clan	
+Kick	Core	kick	Combat Bonus		
+Master Healing	Core	masterhealing	Leader Action		
+Mortal Combat Hammer	Core	mortalcombathammer	Equipment		
+Orbitron	Core	Orbitron	Ally		Robot
+Punch	Core	punch	Combat Bonus		
+Putty Patrollers	Core	puttypatrollers	Ally		Mook
+Run	Core	run	Combat Move		
+Scare	Core	scare	Combat Move		
+Sly Cat	Core	slycat	Ally		Animal
+Target an Enemy	Core	targetanenemy	Combat Shoot		
+Turtle	Core	turtle	Ally		Animal
+Wasp Swarm	Core	waspswarm	Ally		Animal
+Recruitment	Core	recruitment	Leader Action		
+Workshop	Core	workshop	Leader Action		
+Beta	Core	beta	Ally		Robot
+Doctor Obular	Core	doctorobular	Ally		Alien
+Military Soldier	Core	militarysoldier	Ally		Soldier
+Military Commander	Core	militarycommander	Ally		Soldier
+Artillery Officer	Core	artilleryofficer	Ally		Soldier
+Frighten	Core	frighten	Combat Move		
+Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
+Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
+Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
+Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
+Green Steed	Excalibur	greeensteed	Vehicle	Green Sentai	
+Iori Saitama	Excalibur	iorisaitama,kingasa	Hero	Red Sentai	Hero/Changed
+Kyo Spiegel	Excalibur	kyospiegel,sirgarahaddo	Hero	Green Sentai	Hero/Changed
+Machete	Excalibur	machete	Equipment	Kyo Spiegel	
+Marin	Excalibur	marin	Leader	Hero	
+Metal Knight	Excalibur	metalknight	Super Ally		Mecha
+Mogan	Excalibur	mogan	Leader	Modoreddo	
+Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
+Paramour	Excalibur	paramour	Equipment	Benimaru Shima	
+Yellow Steed	Excalibur	yellowsteed	Vehicle	Yelow Sentai	
+Send Me My Weapon	Excalibur	sendmemyweapon	Leader Action		
+Red Steed	Excalibur	redsteed	Vehicle	Red Sentai	
+Attack Dog	Major	attackdog	Ally		Animal
+Bear Mount	Major	bearmount	Vehicle	Chi no Shugenja	
+Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	
+Tsuchi Hirama	Major	tsuchihirama,chinoshugenja	Hero 	Geen Sentai	Hero/Changed
+Disciple of the Golden Path	Major	discipleofthegoldenpath,masterofthegoldenpath	Villain	Yellow Sentai	Villain/Changed
+Dragon Temple	Major	dragontemple	Leader	Hero	
+Earth Potector	Major	earthprotector	Combat Bonus	Chi no Shugenja	
+Earth Seal	Major	earthseal	Equipment	Green Sentai	
+Feed on the Sun	Major	feedonthesun	Combat Bonus	Ka no Shugenja	
+Fire Seal	Major	fireseal	Equipment	Red Sentai	
+Kay Takahara	Major	kaytakahara,funoshugenja	Hero	White Sentai	Hero/Changed
+Giant Eagle	Major	gianteagle	Vehicle	Fu no Shugenja	Hero/Changed
+Golden Path Scrolls	Major	goldenpathscrolls	Equipment	Disciple of the Golden Path	
+Goro Suzuki	Major	gorosuzuki,kanoshugenja	Hero	Red Sentai	Hero/Changed
+Zaishu Kusaragi	Major	zaishukusaragi,kunoshugenja	Hero	Black Sentai	Hero/Changed
+Little Fox	Major	littlefox	Ally		Animal
+Mmizuno Rin	Major	mizunorin,suinoshugenja	Hero	Blue Sentai	Hero/Changed
+Narwhal	Major	narwhal	Vehicle	Sui no Shugenja	
+Phoenix	Major	phoenix	Vehicle	Ka no Shugenja	
+Ray of Sunlight	Major	rayofsunlight	Vehicle	Yellow Sentai	
+Shuyona Chikyu	Major	Shuyonachikyu	Super Ally	Sentai	Hero
+Take their Breath Away	Major	taketheirbreathaway.	Combat Move	Fu no Shugenja	
+The Shapeless	Major	theshapeless	Vehicle	Ku no Shugenja	
+Tidal Wave	Major	tidalwave	Combat Move	Sui no Shugenja	
+Void Seal	Major	voidseal	Equipment	Black Sentai	
+Water Seal	Major	waterseal	Equipment	Blue Sentai	
+Air Seal	Major	windseal	Equipment	White Sentai	
+Golden Path	Major	goldenpath	Leader	Disciple of The Golden Path	
+Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
+She-Ha	Greyskull	sheha	Super Ally	Eternian	Hero
+Prince Adam	Greyskull	princeadam,heman	Hero	Eternian	Hero/Changed
+Battle Cat	Greyskull	battlecat	Vehicle	He-man	
+Cringer	Greyskull	cringer	Vehicle	Eternian	
+Sword of Power	Greyskull	swordofpower	Equipment	Prince Adam	
+Snake Mountain	Greyskull	snakemountain	Leader	Skeletor	
+Castle Greyskull	Greyskull	castlegreyskull	Leader	Eternian	
+Land Shark	Greyskull	landshark	Vehicle		
+Havoc Staff	Greyskull	havocstaff	Equipment	Skeletor	
+Man-at-Ams	Greyskull	menatarms	Ally	Eternian	
+Teela	Greyskull	teela	Ally	Eternian	
+Stratos	Greyskull	stratos	Ally	He-man	
+Buzz-Off	Greyskull	buzzoff	Ally	He-man	
+Mekaneck	Greyskull	mekaneck	Ally	He-man	
+The Sorceress	Greyskull	thesorceress	Ally	Castle Greyskull	Mage
+Ram Man	Greyskull	ramman	Ally	He-man	
+Orko	Greyskull	orko	Ally		Mage
+Man-e-Faces	Greyskull	manefaces	Ally	He-man	
+King Randor	Greyskull	kingrandor	Ally	Eternian	
+Beast Man	Greyskull	beastman	Ally	Skeletor	Animal
+Evil-Lyn	Greyskull	evillyn	Ally	Skeletor	Mage
+Mer-Man	Greyskull	merman	Ally	Skeletor	Aquatic
+Screeech	Greyskull	screeech	Ally	Skeletor	Animal
+Trap Jaw	Greyskull	trapjaw	Ally	Skeletor	Robot
+Tri-Klops	Greyskull	triklops	Ally	Skeletor	
+Whiplash	Greyskull	whiplash	Ally	Skeletor	
+Panthor	Greyskull	panthor	Vehicle	Skeletor	
+Robot Clone	Greyskull	robotclone	Ally		Mook
+Curse	Greyskull	curse	Leader Action	Mage	
+Spirit Armor	Greyskull	spiritarmor	Combat Bonus	Mage	
+Sky Sled	Greyskull	skysled	Vehicle	Eternian	

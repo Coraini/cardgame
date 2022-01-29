@@ -1,0 +1,21 @@
+<formatdefinitions>
+
+<format>
+    <label>Excalibur</label>
+    <set>Core</set>
+	<set>Excalibur</set>
+</format>
+
+<format>
+    <label>Major</label>
+    <set>Core</set>
+	<set>Major</set>
+</format>
+
+<format>
+    <label>Greyskull</label>
+    <set>Core</set>
+	<set>Greyskull</set>
+</format>
+
+</formatdefinitions>

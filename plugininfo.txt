@@ -1,0 +1,94 @@
+<plugin>
+
+<playerstat><label>Wounds</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Valor</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Drama</label><initialvalue>0</initialvalue></playerstat>
+
+<deckzone>
+      <label>Deck</label>
+      <gamezonetoloadto>Deck</gamezonetoloadto>
+      <shuffle>yes</shuffle>
+ </deckzone>
+
+<deckzone>
+      <label>Initial Cards</label>
+ </deckzone>
+
+<deckzone>
+      <label>Collection</label>
+ </deckzone>
+
+<gamezone>
+      <label>Hand</label>
+      <visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+<gamezone>
+      <label>Deck</label>
+ </gamezone>
+
+<gamezone>
+      <label>Out of Play</label>
+      <visibletoowner>yes</visibletoowner>
+      <visibletoothers>yes</visibletoothers>
+ </gamezone>
+
+<gamezone>
+      <label>Initial Cards</label>
+ 	<visibletoowner>yes</visibletoowner>
+ </gamezone>
+
+
+ <phase><label>SH - Start Heroes Turn</label></phase>
+<phase><label>AP - Action Phase</label></phase> 
+<phase><label>HEP - Heroes Employ Phase</label></phase>
+ 
+ <phase><label>SV - Start of Villains Turn</label></phase>
+<phase><label>AP - Action Phase</label></phase> 
+<phase><label>VEP - Villains Employ Phase</label></phase>
+<phase><label>SC - Start of Combat</label></phase>
+ <phase><label>1st Tic</label></phase>
+<phase><label>2nd Tic</label></phase>
+<phase><label>3rd Tic</label></phase>
+<phase><label>4th Tic</label></phase>
+<phase><label>5th Tic</label></phase>
+<phase><label>Nth Tic</label></phase>
+<phase><label>End of Combat</label></phase>
+
+
+
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Unemploy All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Previous Turn</label><kind>PREVIOUSTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Employ</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Unemploy</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+
+
+<cardfunction><label>Upgrade</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>1.05</PositionY></cardfunction>
+<cardfunction><label>Rem. Upg.</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Gain Power</label><kind>ADDCOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton><PositionX>0.05</PositionX><PositionY>0.05</PositionY></cardfunction>
+<cardfunction><label>Lose Power</label><kind>REMOVECOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Wound</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>0.85</PositionX><PositionY>0.85</PositionY></cardfunction>
+<cardfunction><label>Heal</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+
+
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind><value>yes</value></definition>
+<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+<definition><kind>NUMDIGITSINSTAT</kind><value>3</value></definition>
+<definition><kind>RULEBOOKFILE</kind><value>rulebook.pdf</value></definition>
+<definition><kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind><value>others</value></definition>
+
+
+
+</plugin>

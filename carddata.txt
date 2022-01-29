@@ -4,7 +4,7 @@ Giant Punt	Core	giantpunt	Combat Move
 Destroy the City	Core	destroythecity	Leader Action		
 Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
 Upgrade!	Core	upgrade	Leader Action	Robot	
-Reinforcements	Core	Reinforcements	Leader Action		
+Reinforcements	Core	reinforcements	Leader Action		
 Innocent Bystander	Core	innocentbystander	Leader Action		
 Injure	Core	injure	Combat Other		
 Aim	Core	aim	Combat Shoot		

@@ -1,0 +1,10 @@
+RECENTDECK0:Heman.txt
+RECENTDECK1:Heman.dek
+RECENTDECK2:Major_Earth.dek
+RECENTDECK3:Major_Earth.txt
+RECENTDECK4:Elbow_Clan.dek
+RECENTDECK5:Excalibur_Heroes.dek
+RECENTDECK6:Hirdrer.dek
+RECENTDECK7:Hirdrer.txt
+RECENTDECK8:Excalibur_Heroes.txt
+RECENTDECK9:Elbow_Clan.txt

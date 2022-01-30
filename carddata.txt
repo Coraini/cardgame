@@ -4,9 +4,9 @@ Giant Punt	Core	giantpunt	Combat Move
 Destroy the City	Core	destroythecity	Leader Action		
 Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
 Upgrade!	Core	upgrade	Leader Action	Robot	
-Reinforcements	Core	reinforcements	Leader Action		
 Innocent Bystander	Core	innocentbystander	Leader Action		
 Injure	Core	injure	Combat Other		
+Reinforcements	Core	reinforcements	Leader Action		
 Aim	Core	aim	Combat Shoot		
 Armored Car	Core	armoredcar	Vehicle		
 Attack Plane	Core	attackplane	Vehicle		
@@ -105,13 +105,13 @@ Land Shark	Greyskull	landshark	Vehicle
 Havoc Staff	Greyskull	havocstaff	Equipment	Skeletor	
 Man-at-Ams	Greyskull	menatarms	Ally	Eternian	
 Teela	Greyskull	teela	Ally	Eternian	
-Stratos	Greyskull	stratos	Ally	He-man	
-Buzz-Off	Greyskull	buzzoff	Ally	He-man	
-Mekaneck	Greyskull	mekaneck	Ally	He-man	
+Stratos	Greyskull	stratos	Ally	Eternian	
+Buzz-Off	Greyskull	buzzoff	Ally	Eternian	
+Mekaneck	Greyskull	mekaneck	Ally	Eternian	
 The Sorceress	Greyskull	thesorceress	Ally	Castle Greyskull	Mage
-Ram Man	Greyskull	ramman	Ally	He-man	
+Ram Man	Greyskull	ramman	Ally	Eternian	
 Orko	Greyskull	orko	Ally		Mage
-Man-e-Faces	Greyskull	manefaces	Ally	He-man	
+Man-e-Faces	Greyskull	manefaces	Ally	Eternian	
 King Randor	Greyskull	kingrandor	Ally	Eternian	
 Beast Man	Greyskull	beastman	Ally	Skeletor	Animal
 Evil-Lyn	Greyskull	evillyn	Ally	Skeletor	Mage

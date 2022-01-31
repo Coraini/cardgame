@@ -1,10 +1,10 @@
 SMS	08-22-22
-plugins/SMS/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/pluginpreferences.txt	10
-plugins/SMS/formats.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/formats.txt	051
-plugins/SMS/plugininfo.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/plugininfo.txt	051
-plugins/SMS/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/carddata.txt	098
-plugins/SMS/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cardback.jpg	051
-plugins/SMS/rulebook.pdf	https://raw.githubusercontent.com/Coraini/cardgame/main/rulebook.pdf	051
+plugins/SMS/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/pluginpreferences.txt	22
+plugins/SMS/formats.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/formats.txt	863	
+plugins/SMS/plugininfo.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/plugininfo.txt	999	
+plugins/SMS/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/carddata.txt	999	
+plugins/SMS/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cardback.jpg	999	
+plugins/SMS/rulebook.pdf	https://raw.githubusercontent.com/Coraini/cardgame/main/rulebook.pdf	999	
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

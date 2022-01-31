@@ -48,6 +48,8 @@ Doctor Obular	Core	doctorobular	Ally		Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
 Military Commander	Core	militarycommander	Ally		Soldier
 Artillery Officer	Core	artilleryofficer	Ally		Soldier
+Intimidate	Core	intimidate	Combat Bonus		
+Impede	Core	impede	Combat Bonus		
 Frighten	Core	frighten	Combat Move		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed

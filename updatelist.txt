@@ -1,4 +1,4 @@
-SMS	08-22-22
+SMS	08-30-22
 plugins/SMS/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/pluginpreferences.txt	22
 plugins/SMS/formats.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/formats.txt	863	
 plugins/SMS/plugininfo.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/plugininfo.txt	999	

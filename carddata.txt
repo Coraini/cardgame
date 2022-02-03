@@ -51,6 +51,8 @@ Artillery Officer	Core	artilleryofficer	Ally		Soldier
 Intimidate	Core	intimidate	Combat Bonus		
 Impede	Core	impede	Combat Bonus		
 Frighten	Core	frighten	Combat Move		
+Demoralize	Core	demoralize	Combat Bonus		
+Power Blast	Core	powerblast	Combat Shoot		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
 Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	

@@ -38,7 +38,7 @@ Putty Patrollers	Core	puttypatrollers	Ally		Mook
 Run	Core	run	Combat Move		
 Scare	Core	scare	Combat Move		
 Sly Cat	Core	slycat	Ally		Animal
-Target an Enemy	Core	targetanenemy	Combat Shoot		
+Target an Enemy	Core	targetanenemy	Combat Shoot	Hero	
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
 Recruitment	Core	recruitment	Leader Action		

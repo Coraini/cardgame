@@ -54,6 +54,7 @@ Frighten	Core	frighten	Combat Move
 Demoralize	Core	demoralize	Combat Bonus		
 Power Blast	Core	powerblast	Combat Shoot		
 Display Their Cowardice	Core	displaytheircowardice	Leader Action		
+Quick Blast	Core	quickblast	Combat Shoot		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
 Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
@@ -130,3 +131,6 @@ Robot Clone	Greyskull	robotclone	Ally		Mook
 Curse	Greyskull	curse	Leader Action	Mage	
 Spirit Armor	Greyskull	spiritarmor	Combat Bonus	Mage	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
+Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	
+Zodac	Greyskull	zodac	Ally		
+On Open Grounds	Greyskull	onopengrounds	Combat Other		

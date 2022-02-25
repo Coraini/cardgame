@@ -40,7 +40,7 @@
 
 
  <phase><label>SH - Start Heroes Turn</label></phase>
-<phase><label>AP - Action Phase</label></phase> 
+<phase><label>AP - Action Phase</label></phase>  
  <phase><label>SV - Start of Villains Turn</label></phase>
 <phase><label>AP - Action Phase</label></phase> 
 <phase><label>HEP - Heroes Employ Phase</label></phase>

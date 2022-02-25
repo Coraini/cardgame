@@ -1,6 +1,5 @@
 <plugin>
 
-<playerstat><label>Wounds</label><initialvalue>0</initialvalue></playerstat>
 <playerstat><label>Valor</label><initialvalue>0</initialvalue></playerstat>
 <playerstat><label>Drama</label><initialvalue>0</initialvalue></playerstat>
 

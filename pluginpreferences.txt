@@ -1,5 +1,6 @@
 <pluginpreferences>
 
+<counterstyle>0</counterstyle>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>

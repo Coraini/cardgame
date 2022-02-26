@@ -118,7 +118,7 @@ Buzz-Off	Greyskull	buzzoff	Ally	Eternian
 Mekaneck	Greyskull	mekaneck	Ally	Eternian	
 The Sorceress	Greyskull	thesorceress	Ally	Castle Greyskull	Mage
 Ram Man	Greyskull	ramman	Ally	Eternian	
-Orko	Greyskull	orko	Ally		Mage
+Orko	Core	orko	Ally		Mage
 Man-e-Faces	Greyskull	manefaces	Ally	Eternian	
 King Randor	Greyskull	kingrandor	Ally	Eternian	
 Beast Man	Greyskull	beastman	Ally	Skeletor	Animal

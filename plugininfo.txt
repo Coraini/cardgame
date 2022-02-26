@@ -38,10 +38,8 @@
  </gamezone>
 
 
- <phase><label>SH - Start Heroes Turn</label></phase>
-<phase><label>AP - Action Phase</label></phase>  
- <phase><label>SV - Start of Villains Turn</label></phase>
-<phase><label>AP - Action Phase</label></phase> 
+<phase><label>HAP - Heroes' Action Phase</label></phase>  
+ <phase><label>AP - Villains1 Action Phase</label></phase> 
 <phase><label>HEP - Heroes Employ Phase</label></phase>
 <phase><label>VEP - Villains Employ Phase</label></phase>
 <phase><label>SC - Start of Combat</label></phase>

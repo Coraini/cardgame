@@ -1,4 +1,6 @@
 Name	Set	Imgfile	Type	Keyword	Class
+Heroes' Reference	Core	heroesturn	Reference		
+VIllains' Reference	Core	villainsturn	Reference		
 Base, We Need Help!	Core	baseweneedhelp	Leader Action		
 Giant Punt	Core	giantpunt	Combat Move		
 Destroy the City	Core	destroythecity	Leader Action		
@@ -76,7 +78,7 @@ Bear Mount	Major	bearmount	Vehicle	Chi no Shugenja
 Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	
 Tsuchi Hirama	Major	tsuchihirama,chinoshugenja	Hero 	Geen Sentai	Hero/Changed
 Disciple of the Golden Path	Major	discipleofthegoldenpath,masterofthegoldenpath	Villain	Yellow Sentai	Villain/Changed
-Dragon Temple	Major	dragontemple	Leader	Hero	
+Dragon Temple	Major	dragontemple	Leader	Sentai	
 Earth Potector	Major	earthprotector	Combat Bonus	Chi no Shugenja	
 Earth Seal	Major	earthseal	Equipment	Green Sentai	
 Feed on the Sun	Major	feedonthesun	Combat Bonus	Ka no Shugenja	

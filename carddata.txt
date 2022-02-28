@@ -129,7 +129,7 @@ Tri-Klops	Greyskull	triklops	Ally	Skeletor
 Whiplash	Greyskull	whiplash	Ally	Skeletor	
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
 Robot Clone	Greyskull	robotclone	Ally		Mook
-Curse	Greyskull	curse	Leader Action	Mage	
+Curse	Core	curse	Leader Action	Mage	
 Spirit Armor	Greyskull	spiritarmor	Combat Bonus	Mage	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	

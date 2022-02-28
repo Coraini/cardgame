@@ -6,7 +6,6 @@ Giant Punt	Core	giantpunt	Combat Move
 Destroy the City	Core	destroythecity	Leader Action		
 Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
 Upgrade!	Core	upgrade	Leader Action	Robot	
-Innocent Bystander	Core	innocentbystander	Leader Action		
 Injure	Core	injure	Combat Other		
 Reinforcements	Core	reinforcements	Leader Action		
 Aim	Core	aim	Combat Shoot		
@@ -89,7 +88,7 @@ Golden Path Scrolls	Major	goldenpathscrolls	Equipment	Disciple of the Golden Pat
 Goro Suzuki	Major	gorosuzuki,kanoshugenja	Hero	Red Sentai	Hero/Changed
 Zaishu Kusaragi	Major	zaishukusaragi,kunoshugenja	Hero	Black Sentai	Hero/Changed
 Little Fox	Major	littlefox	Ally		Animal
-Mmizuno Rin	Major	mizunorin,suinoshugenja	Hero	Blue Sentai	Hero/Changed
+Mizuno Rin	Major	mizunorin,suinoshugenja	Hero	Blue Sentai	Hero/Changed
 Narwhal	Major	narwhal	Vehicle	Sui no Shugenja	
 Phoenix	Major	phoenix	Vehicle	Ka no Shugenja	
 Ray of Sunlight	Major	rayofsunlight	Vehicle	Yellow Sentai	

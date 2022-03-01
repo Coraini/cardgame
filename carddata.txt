@@ -15,7 +15,7 @@ Compel	Core	compel	Combat Move
 Deny Entry	Core	denyentry	Combat Move		
 Dodge	Core	dodge	Combat Other		
 Dragon Punch	Core	dragonpunch	Combat Bonus	Hero	
-Elbow Clan	Core	elbowclan	Ally		Mook
+Foot Clan	Core	footclan	Ally		Mook
 Escape	Core	escape	Combat Move		
 Evade	Core	evade	Combat Other		
 Expel	Core	expel	Combat Move		

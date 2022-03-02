@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="nighttalon">Night Talon</name><set>Excalibur</set></card>
+		<card><name id="blackgriffon">Black Griffon</name><set>Excalibur</set></card>
+		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="recruitment">Recruitment</name><set>Core</set></card>
+		<card><name id="recruitment">Recruitment</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="marksmanship">Marksmanship</name><set>Core</set></card>
+		<card><name id="marksmanship">Marksmanship</name><set>Core</set></card>
+		<card><name id="marksmanship">Marksmanship</name><set>Core</set></card>
+		<card><name id="marksmanship">Marksmanship</name><set>Core</set></card>
+		<card><name id="destroythecity">Destroy the City</name><set>Core</set></card>
+		<card><name id="giantpunt">Giant Punt</name><set>Core</set></card>
+		<card><name id="giantpunt">Giant Punt</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="modoreddo,mechaeagle">Modoreddo</name><set>Excalibur</set></card>
+		<card><name id="mogan">Mogan</name><set>Excalibur</set></card>
+	</superzone>
+</deck>

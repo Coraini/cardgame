@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="windseal">Air Seal</name><set>Major</set></card>
+		<card><name id="earthseal">Earth Seal</name><set>Major</set></card>
+		<card><name id="fireseal">Fire Seal</name><set>Major</set></card>
+		<card><name id="voidseal">Void Seal</name><set>Major</set></card>
+		<card><name id="waterseal">Water Seal</name><set>Major</set></card>
+		<card><name id="Shuyonachikyu">Shuyona Chikyu</name><set>Major</set></card>
+		<card><name id="bearmount">Bear Mount</name><set>Major</set></card>
+		<card><name id="gianteagle">Giant Eagle</name><set>Major</set></card>
+		<card><name id="phoenix">Phoenix</name><set>Major</set></card>
+		<card><name id="theshapeless">The Shapeless</name><set>Major</set></card>
+		<card><name id="narwhal">Narwhal</name><set>Major</set></card>
+		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
+		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
+		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
+		<card><name id="littlefox">Little Fox</name><set>Major</set></card>
+		<card><name id="littlefox">Little Fox</name><set>Major</set></card>
+		<card><name id="slycat">Sly Cat</name><set>Core</set></card>
+		<card><name id="turtle">Turtle</name><set>Core</set></card>
+		<card><name id="turtle">Turtle</name><set>Core</set></card>
+		<card><name id="turtle">Turtle</name><set>Core</set></card>
+		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
+		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="blackhandoffate">Black Hand of Fate</name><set>Major</set></card>
+		<card><name id="blackhandoffate">Black Hand of Fate</name><set>Major</set></card>
+		<card><name id="earthprotector">Earth Potector</name><set>Major</set></card>
+		<card><name id="earthprotector">Earth Potector</name><set>Major</set></card>
+		<card><name id="feedonthesun">Feed on the Sun</name><set>Major</set></card>
+		<card><name id="feedonthesun">Feed on the Sun</name><set>Major</set></card>
+		<card><name id="taketheirbreathaway.">Take their Breath Away</name><set>Major</set></card>
+		<card><name id="taketheirbreathaway.">Take their Breath Away</name><set>Major</set></card>
+		<card><name id="tidalwave">Tidal Wave</name><set>Major</set></card>
+		<card><name id="tidalwave">Tidal Wave</name><set>Major</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="beta">Beta</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="gorosuzuki,kanoshugenja">Goro Suzuki</name><set>Major</set></card>
+		<card><name id="kaytakahara,funoshugenja">Kay Takahara</name><set>Major</set></card>
+		<card><name id="tsuchihirama,chinoshugenja">Tsuchi Hirama</name><set>Major</set></card>
+		<card><name id="zaishukusaragi,kunoshugenja">Zaishu Kusaragi</name><set>Major</set></card>
+		<card><name id="dragontemple">Dragon Temple</name><set>Major</set></card>
+	</superzone>
+</deck>

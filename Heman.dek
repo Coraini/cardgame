@@ -1,0 +1,66 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="sheha">She-Ha</name><set>Greyskull</set></card>
+		<card><name id="buzzoff">Buzz-Off</name><set>Greyskull</set></card>
+		<card><name id="manefaces">Man-e-Faces</name><set>Greyskull</set></card>
+		<card><name id="mekaneck">Mekaneck</name><set>Greyskull</set></card>
+		<card><name id="ramman">Ram Man</name><set>Greyskull</set></card>
+		<card><name id="stratos">Stratos</name><set>Greyskull</set></card>
+		<card><name id="skysled">Sky Sled</name><set>Greyskull</set></card>
+		<card><name id="skysled">Sky Sled</name><set>Greyskull</set></card>
+		<card><name id="skysled">Sky Sled</name><set>Greyskull</set></card>
+		<card><name id="skysled">Sky Sled</name><set>Greyskull</set></card>
+		<card><name id="doctorobular">Doctor Obular</name><set>Core</set></card>
+		<card><name id="immobile">Immobile</name><set>Core</set></card>
+		<card><name id="immobile">Immobile</name><set>Core</set></card>
+		<card><name id="immobile">Immobile</name><set>Core</set></card>
+		<card><name id="immobile">Immobile</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="baseweneedhelp">Base, We Need Help!</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="thesorceress">The Sorceress</name><set>Greyskull</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="zodac">Zodac</name><set>Greyskull</set></card>
+		<card><name id="beta">Beta</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="princeadam,heman">Prince Adam</name><set>Greyskull</set></card>
+		<card><name id="castlegreyskull">Castle Greyskull</name><set>Greyskull</set></card>
+		<card><name id="kingrandor">King Randor</name><set>Greyskull</set></card>
+		<card><name id="menatarms">Man-at-Ams</name><set>Greyskull</set></card>
+		<card><name id="teela">Teela</name><set>Greyskull</set></card>
+		<card><name id="swordofpower">Sword of Power</name><set>Greyskull</set></card>
+		<card><name id="cringer">Cringer</name><set>Greyskull</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="excalibur">Excalibur</name><set>Excalibur</set></card>
+		<card><name id="machete">Machete</name><set>Excalibur</set></card>
+		<card><name id="paramour">Paramour</name><set>Excalibur</set></card>
+		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
+		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
+		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
+		<card><name id="greeensteed">Green Steed</name><set>Excalibur</set></card>
+		<card><name id="yellowsteed">Yellow Steed</name><set>Excalibur</set></card>
+		<card><name id="redsteed">Red Steed</name><set>Excalibur</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
+		<card><name id="armoredcar">Armored Car</name><set>Core</set></card>
+		<card><name id="attackplane">Attack Plane</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="metalknight">Metal Knight</name><set>Excalibur</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
+		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
+		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
+		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
+		<card><name id="militarycommander">Military Commander</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
+		<card><name id="lasershot">Laser Shot</name><set>Core</set></card>
+		<card><name id="lasershot">Laser Shot</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="benimarushima,sirransuroto">Benimaru Shima</name><set>Excalibur</set></card>
+		<card><name id="iorisaitama,kingasa">Iori Saitama</name><set>Excalibur</set></card>
+		<card><name id="kyospiegel,sirgarahaddo">Kyo Spiegel</name><set>Excalibur</set></card>
+		<card><name id="marin">Marin</name><set>Excalibur</set></card>
+	</superzone>
+</deck>

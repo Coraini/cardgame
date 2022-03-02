@@ -5,7 +5,7 @@ plugins/SMS/plugininfo.txt	https://raw.githubusercontent.com/Coraini/cardgame/ma
 plugins/SMS/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/carddata.txt	988	
 plugins/SMS/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cardback.jpg	777	
 plugins/SMS/rulebook.pdf	https://raw.githubusercontent.com/Coraini/cardgame/main/rulebook.pdf	999	
-plugins/SMS/decks/Skeletor.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Skeletor.dek	222
+plugins/SMS/decks/Skeletor.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Skeletor.dek	221
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

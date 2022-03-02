@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="beastman">Beast Man</name><set>Greyskull</set></card>
+		<card><name id="evillyn">Evil-Lyn</name><set>Greyskull</set></card>
+		<card><name id="merman">Mer-Man</name><set>Greyskull</set></card>
+		<card><name id="screeech">Screeech</name><set>Greyskull</set></card>
+		<card><name id="trapjaw">Trap Jaw</name><set>Greyskull</set></card>
+		<card><name id="triklops">Tri-Klops</name><set>Greyskull</set></card>
+		<card><name id="whiplash">Whiplash</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
+		<card><name id="havocstaff">Havoc Staff</name><set>Greyskull</set></card>
+		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
+		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
+		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
+		<card><name id="panthor">Panthor</name><set>Greyskull</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="frighten">Frighten</name><set>Core</set></card>
+		<card><name id="frighten">Frighten</name><set>Core</set></card>
+		<card><name id="frighten">Frighten</name><set>Core</set></card>
+		<card><name id="frighten">Frighten</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="kobrakhan">Kobra Khan</name><set>Greyskull</set></card>
+		<card><name id="zodac">Zodac</name><set>Greyskull</set></card>
+		<card><name id="onopengrounds">On Open Grounds</name><set>Greyskull</set></card>
+		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
+		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>
+		<card><name id="snakemountain">Snake Mountain</name><set>Greyskull</set></card>
+	</superzone>
+</deck>

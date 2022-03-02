@@ -1,13 +1,13 @@
 Name	Set	Imgfile	Type	Keyword	Class
 Heroes' Reference	Core	heroesturn	Reference		
 VIllains' Reference	Core	villainsturn	Reference		
-Base, We Need Help!	Core	baseweneedhelp	Leader Action		
+Base, We Need Help!	Core	baseweneedhelp	Event		
 Giant Punt	Core	giantpunt	Combat Move		
-Destroy the City	Core	destroythecity	Leader Action		
+Destroy the City	Core	destroythecity	Event		
 Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
-Upgrade!	Core	upgrade	Leader Action	Robot	
+Upgrade!	Core	upgrade	Event	Robot	
 Injure	Core	injure	Combat Other		
-Reinforcements	Core	reinforcements	Leader Action		
+Reinforcements	Core	reinforcements	Event		
 Aim	Core	aim	Combat Shoot		
 Armored Car	Core	armoredcar	Vehicle		
 Attack Plane	Core	attackplane	Vehicle		
@@ -25,13 +25,13 @@ Hidrer Soldiers	Core	hirdrersoldiers	Ally		Mook
 Immobile	Core	immobile	Combat Bonus		
 Invade	Core	invade	Combat Move		
 Laser Shot	Core	lasershot	Combat Shoot		
-Leader Intervention	Core	leaderintervnetion	Leader Action		
+Leader Intervention	Core	leaderintervnetion	Event		
 Living Baseball	Core	Livingbaseball	Ally		Robot
-Mama Help	Core	mamahelp	Leader Action		
+Mama Help	Core	mamahelp	Event		
 Marksmanship	Core	marksmanship	Combat Shoot		
 Mass Produced Katanas	Core	massproducedkatanas	Equipment	Elbow Clan	
 Kick	Core	kick	Combat Bonus		
-Master Healing	Core	masterhealing	Leader Action		
+Master Healing	Core	masterhealing	Event		
 Mortal Combat Hammer	Core	mortalcombathammer	Equipment		
 Orbitron	Core	Orbitron	Ally		Robot
 Punch	Core	punch	Combat Bonus		
@@ -42,8 +42,8 @@ Sly Cat	Core	slycat	Ally		Animal
 Target an Enemy	Core	targetanenemy	Combat Shoot	Hero	
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
-Recruitment	Core	recruitment	Leader Action		
-Workshop	Core	workshop	Leader Action		
+Recruitment	Core	recruitment	Event		
+Workshop	Core	workshop	Event		
 Beta	Core	beta	Ally		Robot
 Doctor Obular	Core	doctorobular	Ally		Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
@@ -54,7 +54,7 @@ Impede	Core	impede	Combat Bonus
 Frighten	Core	frighten	Combat Move		
 Demoralize	Core	demoralize	Combat Bonus		
 Power Blast	Core	powerblast	Combat Shoot		
-Display Their Cowardice	Core	displaytheircowardice	Leader Action		
+Display Their Cowardice	Core	displaytheircowardice	Event		
 Quick Blast	Core	quickblast	Combat Shoot		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
@@ -70,7 +70,7 @@ Mogan	Excalibur	mogan	Leader	Modoreddo
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
 Paramour	Excalibur	paramour	Equipment	Benimaru Shima	
 Yellow Steed	Excalibur	yellowsteed	Vehicle	Yelow Sentai	
-Send Me My Weapon	Excalibur	sendmemyweapon	Leader Action		
+Send Me My Weapon	Excalibur	sendmemyweapon	Event		
 Red Steed	Excalibur	redsteed	Vehicle	Red Sentai	
 Attack Dog	Major	attackdog	Ally		Animal
 Bear Mount	Major	bearmount	Vehicle	Chi no Shugenja	
@@ -129,7 +129,7 @@ Tri-Klops	Greyskull	triklops	Ally	Skeletor
 Whiplash	Greyskull	whiplash	Ally	Skeletor	
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
 Robot Clone	Greyskull	robotclone	Ally		Mook
-Curse	Core	curse	Leader Action	Mage	
+Curse	Core	curse	Event	Mage	
 Spirit Armor	Greyskull	spiritarmor	Combat Bonus	Mage	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	

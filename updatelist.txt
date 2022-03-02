@@ -6,6 +6,10 @@ plugins/SMS/sets/carddata.txt	https://raw.githubusercontent.com/Coraini/cardgame
 plugins/SMS/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cardback.jpg	777	
 plugins/SMS/rulebook.pdf	https://raw.githubusercontent.com/Coraini/cardgame/main/rulebook.pdf	999	
 plugins/SMS/decks/Skeletor.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Skeletor.dek	221
+plugins/SMS/decks/Heman.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Heman.dek	221
+plugins/SMS/decks/Major_Earth.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Major_Earth.dek	221
+plugins/SMS/decks/Excalibur_Heroes.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Excalibur_Heroes.dek	221
+plugins/SMS/decks/Hirdrer.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Hirdrer.dek	221
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

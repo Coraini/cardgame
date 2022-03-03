@@ -24,7 +24,6 @@
 		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
 		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
 		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
 		<card><name id="havocstaff">Havoc Staff</name><set>Greyskull</set></card>
 		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
 		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
@@ -53,6 +52,7 @@
 		<card><name id="onopengrounds">On Open Grounds</name><set>Greyskull</set></card>
 		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
 		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="stealthesword">Steal the Sword!</name><set>Greyskull</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>

@@ -143,3 +143,4 @@ Zodac	Greyskull	zodac	Ally
 On Open Grounds	Greyskull	onopengrounds	Combat Other		
 Eternians Unite!	Greyskull	eterniansunite	Mission		
 Steal the Sword!	Greyskull	stealthesword	Mission		
+Final Monologue	Greyskull	finalmonologue	Combat Other		

@@ -56,6 +56,10 @@ Demoralize	Core	demoralize	Combat Bonus
 Power Blast	Core	powerblast	Combat Shoot		
 Display Their Cowardice	Core	displaytheircowardice	Event		
 Quick Blast	Core	quickblast	Combat Shoot		
+Sabotage	Core	sabotage	Mission		
+Kidnapping	Core	kidnapping	Mission		
+Conversion	Core	conversion	Mission		
+Barricade	Core	barricade	Mission		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
 Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
@@ -135,3 +139,5 @@ Sky Sled	Greyskull	skysled	Vehicle	Eternian
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	
 Zodac	Greyskull	zodac	Ally		
 On Open Grounds	Greyskull	onopengrounds	Combat Other		
+Eternians Unite!	Greyskull	eterniansunite	Mission		
+Steal the Sword!	Greyskull	stealthesword	Mission		

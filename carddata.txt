@@ -104,6 +104,8 @@ Void Seal	Major	voidseal	Equipment	Black Sentai
 Water Seal	Major	waterseal	Equipment	Blue Sentai	
 Air Seal	Major	windseal	Equipment	White Sentai	
 Golden Path	Major	goldenpath	Leader	Disciple of The Golden Path	
+Meditate	Major	meditate	Mission	Hero	
+Accumulate	Major	accumulate	Mission	Villain	
 Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
 She-Ha	Greyskull	sheha	Super Ally	Eternian	Hero
 Prince Adam	Greyskull	princeadam,heman	Hero	Eternian	Hero/Changed

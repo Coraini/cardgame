@@ -136,7 +136,7 @@ Whiplash	Greyskull	whiplash	Ally	Skeletor
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
 Robot Clone	Greyskull	robotclone	Ally		Mook
 Curse	Core	curse	Event	Mage	
-Spirit Armor	Greyskull	spiritarmor	Combat Bonus	Mage	
+Spirit Armor	Core	spiritarmor	Combat Bonus	Mage	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	
 Zodac	Greyskull	zodac	Ally		

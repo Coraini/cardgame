@@ -17,8 +17,6 @@
 		<card><name id="immobile">Immobile</name><set>Core</set></card>
 		<card><name id="immobile">Immobile</name><set>Core</set></card>
 		<card><name id="immobile">Immobile</name><set>Core</set></card>
-		<card><name id="immobile">Immobile</name><set>Core</set></card>
-		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
@@ -39,7 +37,8 @@
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
-		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
@@ -53,6 +52,7 @@
 		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
 		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
 		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="eterniansunite">Eternians Unite!</name><set>Greyskull</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="princeadam,heman">Prince Adam</name><set>Greyskull</set></card>

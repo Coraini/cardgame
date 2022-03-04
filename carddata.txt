@@ -60,6 +60,7 @@ Sabotage	Core	sabotage	Mission
 Kidnapping	Core	kidnapping	Mission		
 Conversion	Core	conversion	Mission		
 Barricade	Core	barricade	Mission		
+Let's Settle This	Core	letssettlethis	Mission		
 Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
 Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	

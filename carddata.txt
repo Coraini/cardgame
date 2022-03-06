@@ -145,3 +145,16 @@ On Open Grounds	Greyskull	onopengrounds	Combat Other
 Eternians Unite!	Greyskull	eterniansunite	Mission		
 Steal the Sword!	Greyskull	stealthesword	Mission		
 Final Monologue	Greyskull	finalmonologue	Combat Other		
+Leo	TMNT	leo,leonardo	Hero		
+Ralph	TMNT	ralph,raphael	Hero		
+Mikey	TMNT	mikey,michelangelo	Hero		
+Donnie	TMNT	donnie,donatello	Hero		
+Master Splinter	TMNT	mastersplinter	Leader		
+Hamato Splinter	TMNT	hamatosplinter	Super Ally		
+Ninja Infiltration	TMNT	ninjainfiltration	Mission		
+Pizza Time	TMNT	pizzatime	Event		
+Cowabunga!	TMNT	cowabunga	Event		
+Sheredder	TMNT	shredder,supershredder	VIllain		
+Krang	TMNT	krang	Leader		
+Oroku Saki	TMNT	orokusaki	Leader		
+Robot Foot Soldier	Core	robotfootsoldier	Ally		Mook

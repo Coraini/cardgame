@@ -18,4 +18,10 @@
 	<set>Greyskull</set>
 </format>
 
+<format>
+    <label>TMNT</label>
+    <set>Core</set>
+	<set>TMNT</set>
+</format>
+
 </formatdefinitions>

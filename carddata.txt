@@ -135,7 +135,7 @@ Trap Jaw	Greyskull	trapjaw	Ally	Skeletor	Robot
 Tri-Klops	Greyskull	triklops	Ally	Skeletor	
 Whiplash	Greyskull	whiplash	Ally	Skeletor	
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
-Robot Clone	Greyskull	robotclone	Ally		Mook
+Robot Clone	Core	robotclone	Ally		Mook
 Curse	Core	curse	Event	Mage	
 Spirit Armor	Core	spiritarmor	Combat Bonus	Mage	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	

@@ -40,8 +40,8 @@
 
 <phase><label>HAP - Heroes' Action Phase</label></phase>  
  <phase><label>VAP - Villains Action Phase</label></phase> 
-<phase><label>HEP - Heroes Employ Phase</label></phase>
-<phase><label>VEP - Villains Employ Phase</label></phase>
+<phase><label>HEP - Heroes Mission Phase</label></phase>
+<phase><label>VEP - Villains Mission Phase</label></phase>
 <phase><label>SC - Start of Combat</label></phase>
  <phase><label>1st Tic</label></phase>
 <phase><label>2nd Tic</label></phase>

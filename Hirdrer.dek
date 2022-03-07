@@ -57,5 +57,6 @@
 	<superzone name="Initial Cards">
 		<card><name id="modoreddo,mechaeagle">Modoreddo</name><set>Excalibur</set></card>
 		<card><name id="mogan">Mogan</name><set>Excalibur</set></card>
+		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

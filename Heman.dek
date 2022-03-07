@@ -62,5 +62,6 @@
 		<card><name id="teela">Teela</name><set>Greyskull</set></card>
 		<card><name id="swordofpower">Sword of Power</name><set>Greyskull</set></card>
 		<card><name id="cringer">Cringer</name><set>Greyskull</set></card>
+		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

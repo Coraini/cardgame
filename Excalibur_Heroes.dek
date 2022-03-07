@@ -59,5 +59,6 @@
 		<card><name id="iorisaitama,kingasa">Iori Saitama</name><set>Excalibur</set></card>
 		<card><name id="kyospiegel,sirgarahaddo">Kyo Spiegel</name><set>Excalibur</set></card>
 		<card><name id="marin">Marin</name><set>Excalibur</set></card>
+		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

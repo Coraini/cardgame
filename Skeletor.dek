@@ -10,20 +10,6 @@
 		<card><name id="trapjaw">Trap Jaw</name><set>Greyskull</set></card>
 		<card><name id="triklops">Tri-Klops</name><set>Greyskull</set></card>
 		<card><name id="whiplash">Whiplash</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
-		<card><name id="robotclone">Robot Clone</name><set>Greyskull</set></card>
 		<card><name id="havocstaff">Havoc Staff</name><set>Greyskull</set></card>
 		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
 		<card><name id="landshark">Land Shark</name><set>Greyskull</set></card>
@@ -57,5 +43,6 @@
 	<superzone name="Initial Cards">
 		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>
 		<card><name id="snakemountain">Snake Mountain</name><set>Greyskull</set></card>
+		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

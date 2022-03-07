@@ -60,5 +60,6 @@
 		<card><name id="tsuchihirama,chinoshugenja">Tsuchi Hirama</name><set>Major</set></card>
 		<card><name id="zaishukusaragi,kunoshugenja">Zaishu Kusaragi</name><set>Major</set></card>
 		<card><name id="dragontemple">Dragon Temple</name><set>Major</set></card>
+		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

@@ -145,10 +145,10 @@ On Open Grounds	Greyskull	onopengrounds	Combat Other
 Eternians Unite!	Greyskull	eterniansunite	Mission		
 Steal the Sword!	Greyskull	stealthesword	Mission		
 Final Monologue	Greyskull	finalmonologue	Combat Other		
-Leo	TMNT	leo,leonardo	Hero		
-Ralph	TMNT	ralph,raphael	Hero		
-Mikey	TMNT	mikey,michelangelo	Hero		
-Donnie	TMNT	donnie,donatello	Hero		
+Leo	TMNT	leo,leonardo	Hero	Mutant Turtle/Ninja	Hero
+Ralph	TMNT	ralph,raphael	Hero	Mutant Turtle/Ninja	Hero
+Mikey	TMNT	mikey,michelangelo	Hero	Mutant Turtle/Ninja	Hero
+Donnie	TMNT	donnie,donatello	Hero	Mutant Turtle/Ninja	Hero, Scientist
 Master Splinter	TMNT	mastersplinter	Leader		
 Hamato Splinter	TMNT	hamatosplinter	Super Ally		
 Ninja Infiltration	TMNT	ninjainfiltration	Mission		
@@ -158,3 +158,18 @@ Sheredder	TMNT	shredder,supershredder	VIllain
 Krang	TMNT	krang	Leader		
 Oroku Saki	TMNT	orokusaki	Leader		
 Robot Foot Soldier	Core	robotfootsoldier	Ally		Mook
+April O'Neil	TMNT	apriloneil	Ally	Mutant	
+Rocksteady	TMNT	rocksteady	Ally	Shredder	Mutant
+Bebop	TMNT	bebop	Ally	Shredder	Mutant
+Baxter Stockman (Fly)	TMNT	baxterstockman	Ally	Krang	Mutant
+Baxter Stockman (Human)	TMNT	baxterstockmanalter	Ally	Oroku Saki	Scientist
+Mouser	TMNT	mouser	Ally	Shredder	Mook, Robot
+Cerberus Mouser	TMNT	cerberusmouser	Ally	Shredder	Robot
+Nunchuks	Core	nunchucks	Equipment		
+Double Katanas	Core	doublekatanas	Equipment		
+Double Sai	Core	doublesai	Equipment		
+Bo Staff	Core	bostaff	Equipment		
+Karai	TMNT	karai	Ally	Villain	Ninja
+Casey Jones	TMNT	caseyjones	Ally	Hero	
+Slash	TMNT	slash	Ally		Mutant Turtle
+Combat Android	TMNT	combatandroid	Ally	Krang	Robot

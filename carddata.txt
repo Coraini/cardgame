@@ -77,7 +77,13 @@ Attack Plane	Core	attackplane	Vehicle
 Baseball Bat	Core	baseballbat	Equipment		
 Skateboard	Core	skateboard	Vehicle		
 Sport Bike	Core	sportbike	Vehicle		
+Unstable Invention	Core	unstableinvention	Event	Scientist	
+Robot Helper	Core	robothelper	Ally	Scientist	Robot
+Assassination	Core	assassination	Mission		
 Villain's Monologue	Core	villainsmonologue	Event		
+Embedded Laser	Core	embeddedlaser	Equipment	Robot	
+Drafting	Core	drafting	Mission		
+Multi Goggles	Core	multigoggles	Equipment	Scientist	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
@@ -120,7 +126,7 @@ Prince Adam	Greyskull	princeadam,heman	Hero	Eternian	Hero/Changed
 Snake Mountain	Greyskull	snakemountain	Leader	Skeletor	
 Castle Greyskull	Greyskull	castlegreyskull	Leader	Eternian	
 Eternians Unite!	Greyskull	eterniansunite	Mission		
-Steal the Sword!	Greyskull	stealthesword	Mission		
+Steal the Sword!	Greyskull	stealthesword	Mission	Skeletor	
 She-Ha	Greyskull	sheha	Super Ally	Eternian	Hero
 Battle Cat	Greyskull	battlecat	Vehicle	He-man	
 Cringer	Greyskull	cringer	Vehicle	Eternian	
@@ -183,7 +189,7 @@ Krang	TMNT	krang	Leader
 Oroku Saki	TMNT	orokusaki	Leader		
 Ninja Infiltration	TMNT	ninjainfiltration	Mission		
 Secret of the Ooze	TMNT	secretoftheooze	Mission		
-Mutant Terror	TMNT	mutantterror	Mission		
+Mutant Terror	TMNT	mutantterror	Mission	Shredder	
 Hamato Splinter	TMNT	hamatosplinter	Super Ally		
 Turtle Blimp	TMNT	turtleblimp	Vehicle	Mutant Turtle	
 Turtle Van Driver Seat	TMNT	turtlevandriverseat	Vehicle	Hero	

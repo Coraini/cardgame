@@ -50,9 +50,9 @@
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="hamatosplinter">Hamato Splinter</name><set>TMNT</set></card>
 		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
-		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
 		<card><name id="barricade">Barricade</name><set>Core</set></card>
-		<card><name id="barricade">Barricade</name><set>Core</set></card>
+		<card><name id="Livingbaseball">Living Baseball</name><set>Core</set></card>
+		<card><name id="drafting">Drafting</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>

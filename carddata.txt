@@ -86,6 +86,7 @@ Drafting	Core	drafting	Mission
 Distraction	Core	distraction	Mission		
 Multi Goggles	Core	multigoggles	Equipment	Scientist	
 Vulcan	Core	vulcan	Equipment	Ship	
+Token Vehicle	Core	tokenvehicle	Vehicle		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

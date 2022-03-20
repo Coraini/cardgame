@@ -83,6 +83,7 @@ Assassination	Core	assassination	Mission
 Villain's Monologue	Core	villainsmonologue	Event		
 Embedded Laser	Core	embeddedlaser	Equipment	Robot	
 Drafting	Core	drafting	Mission		
+Distraction	Core	distraction	Mission		
 Multi Goggles	Core	multigoggles	Equipment	Scientist	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	

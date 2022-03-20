@@ -74,6 +74,7 @@ Heroes' Reference	Core	heroesturn	Reference
 VIllains' Reference	Core	villainsturn	Reference		
 Armored Car	Core	armoredcar	Vehicle		
 Attack Plane	Core	attackplane	Vehicle		
+Villain's Monologue	Core	villainsmonologue	Event		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
@@ -124,6 +125,7 @@ Land Shark	Greyskull	landshark	Vehicle
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
+Deflect	Greyskull	deflect	Combat Other	Sword of Power	
 Attack Dog	Major	attackdog	Ally		Animal
 Little Fox	Major	littlefox	Ally		Animal
 Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	

@@ -73,7 +73,7 @@ Bank Robbery	Core	bankrobbery	Mission
 Heroes' Reference	Core	heroesturn	Reference		
 VIllains' Reference	Core	villainsturn	Reference		
 Armored Car	Core	armoredcar	Vehicle		
-Attack Plane	Core	attackplane	Vehicle		
+Attack Plane	Core	attackplane	Vehicle	Ship	
 Baseball Bat	Core	baseballbat	Equipment		
 Skateboard	Core	skateboard	Vehicle		
 Sport Bike	Core	sportbike	Vehicle		
@@ -85,6 +85,7 @@ Embedded Laser	Core	embeddedlaser	Equipment	Robot
 Drafting	Core	drafting	Mission		
 Distraction	Core	distraction	Mission		
 Multi Goggles	Core	multigoggles	Equipment	Scientist	
+Vulcan	Core	vulcan	Equipment	Ship	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

@@ -1,122 +1,95 @@
 Name	Set	Imgfile	Type	Keyword	Class
-Heroes' Reference	Core	heroesturn	Reference		
-VIllains' Reference	Core	villainsturn	Reference		
-Base, We Need Help!	Core	baseweneedhelp	Event		
-Giant Punt	Core	giantpunt	Combat Move		
-Destroy the City	Core	destroythecity	Event		
-Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
-Upgrade!	Core	upgrade	Event	Robot	
-Injure	Core	injure	Combat Other		
-Reinforcements	Core	reinforcements	Event		
-Aim	Core	aim	Combat Shoot		
-Armored Car	Core	armoredcar	Vehicle		
-Attack Plane	Core	attackplane	Vehicle		
-Compel	Core	compel	Combat Move		
-Deny Entry	Core	denyentry	Combat Move		
-Dodge	Core	dodge	Combat Other		
-Dragon Punch	Core	dragonpunch	Combat Bonus	Hero	
 Foot Clan	Core	footclan	Ally		Mook
-Escape	Core	escape	Combat Move		
-Evade	Core	evade	Combat Other		
-Expel	Core	expel	Combat Move		
-Flash Entering	Core	flashentering	Combat Move		
-Hanzo's Katana	Core	hanzoskatana	Equipment		
 Hidrer Soldiers	Core	hirdrersoldiers	Ally		Mook
-Immobile	Core	immobile	Combat Bonus		
-Invade	Core	invade	Combat Move		
-Laser Shot	Core	lasershot	Combat Shoot		
-Leader Intervention	Core	leaderintervnetion	Event		
 Living Baseball	Core	Livingbaseball	Ally		Robot
-Mama Help	Core	mamahelp	Event		
-Marksmanship	Core	marksmanship	Combat Shoot		
-Mass Produced Katanas	Core	massproducedkatanas	Equipment	Elbow Clan	
-Kick	Core	kick	Combat Bonus		
-Master Healing	Core	masterhealing	Event		
-Mortal Combat Hammer	Core	mortalcombathammer	Equipment		
 Orbitron	Core	Orbitron	Ally		Robot
-Punch	Core	punch	Combat Bonus		
 Putty Patrollers	Core	puttypatrollers	Ally		Mook
-Run	Core	run	Combat Move		
-Scare	Core	scare	Combat Move		
 Sly Cat	Core	slycat	Ally		Animal
-Target an Enemy	Core	targetanenemy	Combat Shoot	Hero	
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
-Recruitment	Core	recruitment	Event		
-Workshop	Core	workshop	Event		
 Beta	Core	beta	Ally		Robot
 Doctor Obular	Core	doctorobular	Ally		Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
 Military Commander	Core	militarycommander	Ally		Soldier
 Artillery Officer	Core	artilleryofficer	Ally		Soldier
+Orko	Core	orko	Ally		Mage
+Robot Clone	Core	robotclone	Ally		Mook
+Robot Foot Soldier	Core	robotfootsoldier	Ally		Mook
+Dragon Punch	Core	dragonpunch	Combat Bonus	Hero	
+Immobile	Core	immobile	Combat Bonus		
+Kick	Core	kick	Combat Bonus		
+Punch	Core	punch	Combat Bonus		
 Intimidate	Core	intimidate	Combat Bonus		
 Impede	Core	impede	Combat Bonus		
-Frighten	Core	frighten	Combat Move		
 Demoralize	Core	demoralize	Combat Bonus		
+Spirit Armor	Core	spiritarmor	Combat Bonus	Mage	
+Giant Punt	Core	giantpunt	Combat Move		
+Compel	Core	compel	Combat Move		
+Deny Entry	Core	denyentry	Combat Move		
+Escape	Core	escape	Combat Move		
+Expel	Core	expel	Combat Move		
+Flash Entering	Core	flashentering	Combat Move		
+Invade	Core	invade	Combat Move		
+Run	Core	run	Combat Move		
+Scare	Core	scare	Combat Move		
+Frighten	Core	frighten	Combat Move		
+Injure	Core	injure	Combat Other		
+Dodge	Core	dodge	Combat Other		
+Evade	Core	evade	Combat Other		
+Mechanical Aiming	Core	mechanicalaiming	Combat Shoot	Robot	
+Aim	Core	aim	Combat Shoot		
+Laser Shot	Core	lasershot	Combat Shoot		
+Marksmanship	Core	marksmanship	Combat Shoot		
+Target an Enemy	Core	targetanenemy	Combat Shoot	Hero	
 Power Blast	Core	powerblast	Combat Shoot		
-Display Their Cowardice	Core	displaytheircowardice	Event		
 Quick Blast	Core	quickblast	Combat Shoot		
+Hanzo's Katana	Core	hanzoskatana	Equipment		
+Mass Produced Katanas	Core	massproducedkatanas	Equipment	Elbow Clan	
+Mortal Combat Hammer	Core	mortalcombathammer	Equipment		
+Nunchucks	Core	nunchucks	Equipment		
+Double Katanas	Core	doublekatanas	Equipment		
+Double Sai	Core	doublesai	Equipment		
+Bo Staff	Core	bostaff	Equipment		
+Tekagi	Core	tekagi	Equipment		
+Base, We Need Help!	Core	baseweneedhelp	Event		
+Destroy the City	Core	destroythecity	Event		
+Upgrade!	Core	upgrade	Event	Robot	
+Reinforcements	Core	reinforcements	Event		
+Leader Intervention	Core	leaderintervnetion	Event		
+Mama Help	Core	mamahelp	Event		
+Master Healing	Core	masterhealing	Event		
+Recruitment	Core	recruitment	Event		
+Workshop	Core	workshop	Event		
+Display Their Cowardice	Core	displaytheircowardice	Event		
+Curse	Core	curse	Event	Mage	
+Mission Debrief	Core	missiondebrief	Event		
 Sabotage	Core	sabotage	Mission		
 Kidnapping	Core	kidnapping	Mission		
 Conversion	Core	conversion	Mission		
 Barricade	Core	barricade	Mission		
 Let's Settle This	Core	letssettlethis	Mission		
-Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
-Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
-Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
+Lab Robbery	Core	labrobbery	Mission		
+Bank Robbery	Core	bankrobbery	Mission		
+Heroes' Reference	Core	heroesturn	Reference		
+VIllains' Reference	Core	villainsturn	Reference		
+Armored Car	Core	armoredcar	Vehicle		
+Attack Plane	Core	attackplane	Vehicle		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
-Green Steed	Excalibur	greeensteed	Vehicle	Green Sentai	
-Iori Saitama	Excalibur	iorisaitama,kingasa	Hero	Red Sentai	Hero/Changed
-Kyo Spiegel	Excalibur	kyospiegel,sirgarahaddo	Hero	Green Sentai	Hero/Changed
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
-Marin	Excalibur	marin	Leader	Hero	
-Metal Knight	Excalibur	metalknight	Super Ally		Mecha
-Mogan	Excalibur	mogan	Leader	Modoreddo	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
 Paramour	Excalibur	paramour	Equipment	Benimaru Shima	
-Yellow Steed	Excalibur	yellowsteed	Vehicle	Yelow Sentai	
 Send Me My Weapon	Excalibur	sendmemyweapon	Event		
+Benimaru Shima	Excalibur	benimarushima,sirransuroto	Hero	Yellow Sentai	Hero/Changed
+Iori Saitama	Excalibur	iorisaitama,kingasa	Hero	Red Sentai	Hero/Changed
+Kyo Spiegel	Excalibur	kyospiegel,sirgarahaddo	Hero	Green Sentai	Hero/Changed
+Marin	Excalibur	marin	Leader	Hero	
+Mogan	Excalibur	mogan	Leader	Modoreddo	
+Metal Knight	Excalibur	metalknight	Super Ally		Mecha
+Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
+Green Steed	Excalibur	greeensteed	Vehicle	Green Sentai	
+Yellow Steed	Excalibur	yellowsteed	Vehicle	Yelow Sentai	
 Red Steed	Excalibur	redsteed	Vehicle	Red Sentai	
-Attack Dog	Major	attackdog	Ally		Animal
-Bear Mount	Major	bearmount	Vehicle	Chi no Shugenja	
-Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	
-Tsuchi Hirama	Major	tsuchihirama,chinoshugenja	Hero 	Geen Sentai	Hero/Changed
-Disciple of the Golden Path	Major	discipleofthegoldenpath,masterofthegoldenpath	Villain	Yellow Sentai	Villain/Changed
-Dragon Temple	Major	dragontemple	Leader	Sentai	
-Earth Potector	Major	earthprotector	Combat Bonus	Chi no Shugenja	
-Earth Seal	Major	earthseal	Equipment	Green Sentai	
-Feed on the Sun	Major	feedonthesun	Combat Bonus	Ka no Shugenja	
-Fire Seal	Major	fireseal	Equipment	Red Sentai	
-Kay Takahara	Major	kaytakahara,funoshugenja	Hero	White Sentai	Hero/Changed
-Giant Eagle	Major	gianteagle	Vehicle	Fu no Shugenja	Hero/Changed
-Golden Path Scrolls	Major	goldenpathscrolls	Equipment	Disciple of the Golden Path	
-Goro Suzuki	Major	gorosuzuki,kanoshugenja	Hero	Red Sentai	Hero/Changed
-Zaishu Kusaragi	Major	zaishukusaragi,kunoshugenja	Hero	Black Sentai	Hero/Changed
-Little Fox	Major	littlefox	Ally		Animal
-Mizuno Rin	Major	mizunorin,suinoshugenja	Hero	Blue Sentai	Hero/Changed
-Narwhal	Major	narwhal	Vehicle	Sui no Shugenja	
-Phoenix	Major	phoenix	Vehicle	Ka no Shugenja	
-Ray of Sunlight	Major	rayofsunlight	Vehicle	Yellow Sentai	
-Shuyona Chikyu	Major	Shuyonachikyu	Super Ally	Sentai	Hero
-Take their Breath Away	Major	taketheirbreathaway.	Combat Move	Fu no Shugenja	
-The Shapeless	Major	theshapeless	Vehicle	Ku no Shugenja	
-Tidal Wave	Major	tidalwave	Combat Move	Sui no Shugenja	
-Void Seal	Major	voidseal	Equipment	Black Sentai	
-Water Seal	Major	waterseal	Equipment	Blue Sentai	
-Air Seal	Major	windseal	Equipment	White Sentai	
-Golden Path	Major	goldenpath	Leader	Disciple of The Golden Path	
-Meditate	Major	meditate	Mission	Hero	
-Accumulate	Major	accumulate	Mission	Villain	
-Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
-She-Ha	Greyskull	sheha	Super Ally	Eternian	Hero
-Prince Adam	Greyskull	princeadam,heman	Hero	Eternian	Hero/Changed
-Battle Cat	Greyskull	battlecat	Vehicle	He-man	
-Cringer	Greyskull	cringer	Vehicle	Eternian	
-Sword of Power	Greyskull	swordofpower	Equipment	Prince Adam	
-Snake Mountain	Greyskull	snakemountain	Leader	Skeletor	
-Castle Greyskull	Greyskull	castlegreyskull	Leader	Eternian	
-Land Shark	Greyskull	landshark	Vehicle		
-Havoc Staff	Greyskull	havocstaff	Equipment	Skeletor	
+Modoreddo	Excalibur	modoreddo,mechaeagle	Villain	Black Sentai	Villain/Mecha
 Man-at-Ams	Greyskull	menatarms	Ally	Eternian	
 Teela	Greyskull	teela	Ally	Eternian	
 Stratos	Greyskull	stratos	Ally	Eternian	
@@ -124,7 +97,6 @@ Buzz-Off	Greyskull	buzzoff	Ally	Eternian
 Mekaneck	Greyskull	mekaneck	Ally	Eternian	
 The Sorceress	Greyskull	thesorceress	Ally	Castle Greyskull	Mage
 Ram Man	Greyskull	ramman	Ally	Eternian	
-Orko	Core	orko	Ally		Mage
 Man-e-Faces	Greyskull	manefaces	Ally	Eternian	
 King Randor	Greyskull	kingrandor	Ally	Eternian	
 Beast Man	Greyskull	beastman	Ally	Skeletor	Animal
@@ -134,30 +106,54 @@ Screeech	Greyskull	screeech	Ally	Skeletor	Animal
 Trap Jaw	Greyskull	trapjaw	Ally	Skeletor	Robot
 Tri-Klops	Greyskull	triklops	Ally	Skeletor	
 Whiplash	Greyskull	whiplash	Ally	Skeletor	
-Panthor	Greyskull	panthor	Vehicle	Skeletor	
-Robot Clone	Core	robotclone	Ally		Mook
-Curse	Core	curse	Event	Mage	
-Spirit Armor	Core	spiritarmor	Combat Bonus	Mage	
-Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	
 Zodac	Greyskull	zodac	Ally		
 On Open Grounds	Greyskull	onopengrounds	Combat Other		
+Final Monologue	Greyskull	finalmonologue	Combat Other		
+Sword of Power	Greyskull	swordofpower	Equipment	Prince Adam	
+Havoc Staff	Greyskull	havocstaff	Equipment	Skeletor	
+Prince Adam	Greyskull	princeadam,heman	Hero	Eternian	Hero/Changed
+Snake Mountain	Greyskull	snakemountain	Leader	Skeletor	
+Castle Greyskull	Greyskull	castlegreyskull	Leader	Eternian	
 Eternians Unite!	Greyskull	eterniansunite	Mission		
 Steal the Sword!	Greyskull	stealthesword	Mission		
-Final Monologue	Greyskull	finalmonologue	Combat Other		
-Leo	TMNT	leo,leonardo	Hero	Mutant Turtle/Ninja	Hero
-Ralph	TMNT	ralph,raphael	Hero	Mutant Turtle/Ninja	Hero
-Mikey	TMNT	mikey,michelangelo	Hero	Mutant Turtle/Ninja	Hero
-Donnie	TMNT	donnie,donatello	Hero	Mutant Turtle/Ninja	Hero, Scientist
-Master Splinter	TMNT	mastersplinter	Leader		
-Hamato Splinter	TMNT	hamatosplinter	Super Ally		
-Ninja Infiltration	TMNT	ninjainfiltration	Mission		
-Pizza Time	TMNT	pizzatime	Event		
-Cowabunga!	TMNT	cowabunga	Event		
-Sheredder	TMNT	shredder,supershredder	VIllain		
-Krang	TMNT	krang	Leader		
-Oroku Saki	TMNT	orokusaki	Leader		
-Robot Foot Soldier	Core	robotfootsoldier	Ally		Mook
+She-Ha	Greyskull	sheha	Super Ally	Eternian	Hero
+Battle Cat	Greyskull	battlecat	Vehicle	He-man	
+Cringer	Greyskull	cringer	Vehicle	Eternian	
+Land Shark	Greyskull	landshark	Vehicle		
+Panthor	Greyskull	panthor	Vehicle	Skeletor	
+Sky Sled	Greyskull	skysled	Vehicle	Eternian	
+Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
+Attack Dog	Major	attackdog	Ally		Animal
+Little Fox	Major	littlefox	Ally		Animal
+Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	
+Earth Potector	Major	earthprotector	Combat Bonus	Chi no Shugenja	
+Feed on the Sun	Major	feedonthesun	Combat Bonus	Ka no Shugenja	
+Take their Breath Away	Major	taketheirbreathaway.	Combat Move	Fu no Shugenja	
+Tidal Wave	Major	tidalwave	Combat Move	Sui no Shugenja	
+Earth Seal	Major	earthseal	Equipment	Green Sentai	
+Fire Seal	Major	fireseal	Equipment	Red Sentai	
+Golden Path Scrolls	Major	goldenpathscrolls	Equipment	Disciple of the Golden Path	
+Void Seal	Major	voidseal	Equipment	Black Sentai	
+Water Seal	Major	waterseal	Equipment	Blue Sentai	
+Air Seal	Major	windseal	Equipment	White Sentai	
+Kay Takahara	Major	kaytakahara,funoshugenja	Hero	White Sentai	Hero/Changed
+Goro Suzuki	Major	gorosuzuki,kanoshugenja	Hero	Red Sentai	Hero/Changed
+Zaishu Kusaragi	Major	zaishukusaragi,kunoshugenja	Hero	Black Sentai	Hero/Changed
+Mizuno Rin	Major	mizunorin,suinoshugenja	Hero	Blue Sentai	Hero/Changed
+Tsuchi Hirama	Major	tsuchihirama,chinoshugenja	Hero 	Geen Sentai	Hero/Changed
+Dragon Temple	Major	dragontemple	Leader	Sentai	
+Golden Path	Major	goldenpath	Leader	Disciple of The Golden Path	
+Meditate	Major	meditate	Mission	Hero	
+Accumulate	Major	accumulate	Mission	Villain	
+Shuyona Chikyu	Major	Shuyonachikyu	Super Ally	Sentai	Hero
+Bear Mount	Major	bearmount	Vehicle	Chi no Shugenja	
+Giant Eagle	Major	gianteagle	Vehicle	Fu no Shugenja	Hero/Changed
+Narwhal	Major	narwhal	Vehicle	Sui no Shugenja	
+Phoenix	Major	phoenix	Vehicle	Ka no Shugenja	
+Ray of Sunlight	Major	rayofsunlight	Vehicle	Yellow Sentai	
+The Shapeless	Major	theshapeless	Vehicle	Ku no Shugenja	
+Disciple of the Golden Path	Major	discipleofthegoldenpath,masterofthegoldenpath	Villain	Yellow Sentai	Villain/Changed
 April O'Neil	TMNT	apriloneil	Ally	Mutant	
 Rocksteady	TMNT	rocksteady	Ally	Shredder	Mutant
 Bebop	TMNT	bebop	Ally	Shredder	Mutant
@@ -165,11 +161,31 @@ Baxter Stockman (Fly)	TMNT	baxterstockman	Ally	Krang	Mutant
 Baxter Stockman (Human)	TMNT	baxterstockmanalter	Ally	Oroku Saki	Scientist
 Mouser	TMNT	mouser	Ally	Shredder	Mook, Robot
 Cerberus Mouser	TMNT	cerberusmouser	Ally	Shredder	Robot
-Nunchuks	Core	nunchucks	Equipment		
-Double Katanas	Core	doublekatanas	Equipment		
-Double Sai	Core	doublesai	Equipment		
-Bo Staff	Core	bostaff	Equipment		
 Karai	TMNT	karai	Ally	Villain	Ninja
 Casey Jones	TMNT	caseyjones	Ally	Hero	
 Slash	TMNT	slash	Ally		Mutant Turtle
 Combat Android	TMNT	combatandroid	Ally	Krang	Robot
+Pizza Time	TMNT	pizzatime	Event		
+Cowabunga!	TMNT	cowabunga	Event		
+Krang's Pep Talk	TMNT	krangspeptalk	Event	Krang	
+Splinter Wisdom	TMNT	splinterwisdom	Event	Master Splinter	
+Leo	TMNT	leo,leonardo	Hero	Mutant Turtle/Ninja	Hero
+Ralph	TMNT	ralph,raphael	Hero	Mutant Turtle/Ninja	Hero
+Mikey	TMNT	mikey,michelangelo	Hero	Mutant Turtle/Ninja	Hero
+Donnie	TMNT	donnie,donatello	Hero	Mutant Turtle/Ninja	Hero, Scientist
+Master Splinter	TMNT	mastersplinter	Leader		
+Krang	TMNT	krang	Leader		
+Oroku Saki	TMNT	orokusaki	Leader		
+Ninja Infiltration	TMNT	ninjainfiltration	Mission		
+Secret of the Ooze	TMNT	secretoftheooze	Mission		
+Mutant Terror	TMNT	mutantterror	Mission		
+Hamato Splinter	TMNT	hamatosplinter	Super Ally		
+Turtle Blimp	TMNT	turtleblimp	Vehicle	Mutant Turtle	
+Turtle Van Driver Seat	TMNT	turtlevandriverseat	Vehicle	Hero	
+Turtle Van Turrets	TMNT	turtlevanturrets	Vehicle	Hero	
+Turtle Van Side Door	TMNT	turtlevansidedoor	Vehicle	Hero	
+Technodrome	TMNT	technodrome	Vehicle		
+Turtle Van Perch	TMNT	turtlevanperch	Vehicles	Hero	
+Sheredder	TMNT	shredder,supershredder	VIllain		
+Leatherhead	TMNT	leatherhead	Ally	Mutant	Animal
+Alopex	TMNT	alopex	Ally	Mutant Ninja	Animal

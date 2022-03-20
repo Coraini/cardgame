@@ -76,6 +76,7 @@ Armored Car	Core	armoredcar	Vehicle
 Attack Plane	Core	attackplane	Vehicle		
 Baseball Bat	Core	baseballbat	Equipment		
 Skateboard	Core	skateboard	Vehicle		
+Sport Bike	Core	sportbike	Vehicle		
 Villain's Monologue	Core	villainsmonologue	Event		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	

@@ -18,8 +18,6 @@
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
-		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
-		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
 		<card><name id="beta">Beta</name><set>Core</set></card>
 		<card><name id="robothelper">Robot Helper</name><set>Core</set></card>
 		<card><name id="Orbitron">Orbitron</name><set>Core</set></card>
@@ -27,9 +25,6 @@
 		<card><name id="multigoggles">Multi Goggles</name><set>Core</set></card>
 		<card><name id="turtleblimp">Turtle Blimp</name><set>TMNT</set></card>
 		<card><name id="embeddedlaser">Embedded Laser</name><set>Core</set></card>
-		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
-		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
-		<card><name id="Livingbaseball">Living Baseball</name><set>Core</set></card>
 		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
 		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
 		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
@@ -49,10 +44,15 @@
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="hamatosplinter">Hamato Splinter</name><set>TMNT</set></card>
+		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
+		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
+		<card><name id="barricade">Barricade</name><set>Core</set></card>
+		<card><name id="barricade">Barricade</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>

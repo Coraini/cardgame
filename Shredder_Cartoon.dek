@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="secretoftheooze">Secret of the Ooze</name><set>TMNT</set></card>
+		<card><name id="krangspeptalk">Krang&apos;s Pep Talk</name><set>TMNT</set></card>
+		<card><name id="krangspeptalk">Krang&apos;s Pep Talk</name><set>TMNT</set></card>
+		<card><name id="krangspeptalk">Krang&apos;s Pep Talk</name><set>TMNT</set></card>
+		<card><name id="krangspeptalk">Krang&apos;s Pep Talk</name><set>TMNT</set></card>
+		<card><name id="slash">Slash</name><set>TMNT</set></card>
+		<card><name id="rocksteady">Rocksteady</name><set>TMNT</set></card>
+		<card><name id="bebop">Bebop</name><set>TMNT</set></card>
+		<card><name id="mutantterror">Mutant Terror</name><set>TMNT</set></card>
+		<card><name id="tekagi">Tekagi</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="assassination">Assassination</name><set>Core</set></card>
+		<card><name id="bankrobbery">Bank Robbery</name><set>Core</set></card>
+		<card><name id="conversion">Conversion</name><set>Core</set></card>
+		<card><name id="distraction">Distraction</name><set>Core</set></card>
+		<card><name id="drafting">Drafting</name><set>Core</set></card>
+		<card><name id="kidnapping">Kidnapping</name><set>Core</set></card>
+		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
+		<card><name id="sabotage">Sabotage</name><set>Core</set></card>
+		<card><name id="baxterstockman">Baxter Stockman (Fly)</name><set>TMNT</set></card>
+		<card><name id="combatandroid">Combat Android</name><set>TMNT</set></card>
+		<card><name id="leatherhead">Leatherhead</name><set>TMNT</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="flashentering">Flash Entering</name><set>Core</set></card>
+		<card><name id="missiondebrief">Mission Debrief</name><set>Core</set></card>
+		<card><name id="missiondebrief">Mission Debrief</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+		<card><name id="robotfootsoldier">Robot Foot Soldier</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
+		<card><name id="krang">Krang</name><set>TMNT</set></card>
+	</superzone>
+</deck>

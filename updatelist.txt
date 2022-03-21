@@ -13,8 +13,8 @@ plugins/SMS/decks/Hirdrer.dek	https://raw.githubusercontent.com/Coraini/cardgame
 plugins/SMS/decks/Turtles_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Turtles_Cartoon.dek	221
 plugins/SMS/decks/Turtles_Comics.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Turtles_Comics.dek	221
 plugins/SMS/decks/Shredder_Comics.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Comics.dek	221
-
-
+plugins/SMS/decks/Shredder_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Cartoon.dek	221
+plugins/SMS/decks/Shredder_Mouser.dek.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Mouser.dek	221
 
 
 CardGeneralURLs: 

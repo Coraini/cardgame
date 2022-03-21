@@ -48,11 +48,21 @@
 		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
 		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
 		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
+		<card><name id="robotclone">Robot Clone</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>

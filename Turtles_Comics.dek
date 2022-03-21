@@ -35,6 +35,8 @@
 		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
@@ -43,16 +45,24 @@
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="punch">Punch</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="beta">Beta</name><set>Core</set></card>
+		<card><name id="turtle">Turtle</name><set>Core</set></card>
+		<card><name id="alopex">Alopex</name><set>TMNT</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>
@@ -61,5 +71,6 @@
 		<card><name id="mikey,michelangelo">Mikey</name><set>TMNT</set></card>
 		<card><name id="ralph,raphael">Ralph</name><set>TMNT</set></card>
 		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
+		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

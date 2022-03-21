@@ -17,7 +17,7 @@
 		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
 		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
 		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
-		<card><name id="littlefox">Little Fox</name><set>Major</set></card>
+		<card><name id="attackdog">Attack Dog</name><set>Major</set></card>
 		<card><name id="littlefox">Little Fox</name><set>Major</set></card>
 		<card><name id="slycat">Sly Cat</name><set>Core</set></card>
 		<card><name id="turtle">Turtle</name><set>Core</set></card>
@@ -51,8 +51,18 @@
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="beta">Beta</name><set>Core</set></card>
 		<card><name id="meditate">Meditate</name><set>Major</set></card>
+		<card><name id="baseweneedhelp">Base, We Need Help!</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="gorosuzuki,kanoshugenja">Goro Suzuki</name><set>Major</set></card>

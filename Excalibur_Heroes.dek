@@ -22,12 +22,17 @@
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
 		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="metalknight">Metal Knight</name><set>Excalibur</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
@@ -36,6 +41,9 @@
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
@@ -47,12 +55,14 @@
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
-		<card><name id="lasershot">Laser Shot</name><set>Core</set></card>
-		<card><name id="lasershot">Laser Shot</name><set>Core</set></card>
+		<card><name id="baseweneedhelp">Base, We Need Help!</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
+		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="benimarushima,sirransuroto">Benimaru Shima</name><set>Excalibur</set></card>

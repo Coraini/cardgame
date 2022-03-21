@@ -26,6 +26,8 @@
 		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
 		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
 		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
 		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
 		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
 		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
@@ -38,8 +40,11 @@
 		<card><name id="sportbike">Sport Bike</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
@@ -48,14 +53,20 @@
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="dodge">Dodge</name><set>Core</set></card>
 		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
 		<card><name id="orokusaki">Oroku Saki</name><set>TMNT</set></card>
+		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

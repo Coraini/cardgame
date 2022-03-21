@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="secretoftheooze">Secret of the Ooze</name><set>TMNT</set></card>
+		<card><name id="rocksteady">Rocksteady</name><set>TMNT</set></card>
+		<card><name id="bebop">Bebop</name><set>TMNT</set></card>
+		<card><name id="tekagi">Tekagi</name><set>Core</set></card>
+		<card><name id="drafting">Drafting</name><set>Core</set></card>
+		<card><name id="baxterstockmanalter">Baxter Stockman (Human)</name><set>TMNT</set></card>
+		<card><name id="cerberusmouser">Cerberus Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="upgrade">Upgrade!</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="mechanicalaiming">Mechanical Aiming</name><set>Core</set></card>
+		<card><name id="embeddedlaser">Embedded Laser</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
+		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
+		<card><name id="orokusaki">Oroku Saki</name><set>TMNT</set></card>
+		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
+	</superzone>
+</deck>

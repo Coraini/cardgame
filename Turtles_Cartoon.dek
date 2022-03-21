@@ -32,6 +32,8 @@
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
@@ -53,6 +55,14 @@
 		<card><name id="barricade">Barricade</name><set>Core</set></card>
 		<card><name id="Livingbaseball">Living Baseball</name><set>Core</set></card>
 		<card><name id="drafting">Drafting</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="secretoftheooze">Secret of the Ooze</name><set>TMNT</set></card>
+		<card><name id="doctorobular">Doctor Obular</name><set>Core</set></card>
+		<card><name id="slycat">Sly Cat</name><set>Core</set></card>
+		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>
@@ -66,5 +76,6 @@
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
+		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

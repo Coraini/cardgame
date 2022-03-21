@@ -60,5 +60,6 @@
 		<card><name id="mastersplinter">Master Splinter</name><set>TMNT</set></card>
 		<card><name id="mikey,michelangelo">Mikey</name><set>TMNT</set></card>
 		<card><name id="ralph,raphael">Ralph</name><set>TMNT</set></card>
+		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
 	</superzone>
 </deck>

@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="secretoftheooze">Secret of the Ooze</name><set>TMNT</set></card>
+		<card><name id="slash">Slash</name><set>TMNT</set></card>
+		<card><name id="rocksteady">Rocksteady</name><set>TMNT</set></card>
+		<card><name id="karai">Karai</name><set>TMNT</set></card>
+		<card><name id="bebop">Bebop</name><set>TMNT</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="footclan">Foot Clan</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="mutantterror">Mutant Terror</name><set>TMNT</set></card>
+		<card><name id="tekagi">Tekagi</name><set>Core</set></card>
+		<card><name id="sportbike">Sport Bike</name><set>Core</set></card>
+		<card><name id="sportbike">Sport Bike</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
+		<card><name id="orokusaki">Oroku Saki</name><set>TMNT</set></card>
+	</superzone>
+</deck>

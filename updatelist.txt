@@ -12,6 +12,10 @@ plugins/SMS/decks/Excalibur_Heroes.dek	https://raw.githubusercontent.com/Coraini
 plugins/SMS/decks/Hirdrer.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Hirdrer.dek	221
 plugins/SMS/decks/Turtles_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Turtles_Cartoon.dek	221
 plugins/SMS/decks/Turtles_Comics.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Turtles_Comics.dek	221
+plugins/SMS/decks/Shredder_Comics.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Comics.dek	221
+
+
+
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

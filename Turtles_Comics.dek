@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>SMS</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="apriloneil">April O&apos;Neil</name><set>TMNT</set></card>
+		<card><name id="caseyjones">Casey Jones</name><set>TMNT</set></card>
+		<card><name id="leatherhead">Leatherhead</name><set>TMNT</set></card>
+		<card><name id="slash">Slash</name><set>TMNT</set></card>
+		<card><name id="splinterwisdom">Splinter Wisdom</name><set>TMNT</set></card>
+		<card><name id="splinterwisdom">Splinter Wisdom</name><set>TMNT</set></card>
+		<card><name id="hamatosplinter">Hamato Splinter</name><set>TMNT</set></card>
+		<card><name id="turtlevandriverseat">Turtle Van Driver Seat</name><set>TMNT</set></card>
+		<card><name id="turtlevansidedoor">Turtle Van Side Door</name><set>TMNT</set></card>
+		<card><name id="turtlevanturrets">Turtle Van Turrets</name><set>TMNT</set></card>
+		<card><name id="turtlevanperch">Turtle Van Perch</name><set>TMNT</set></card>
+		<card><name id="bostaff">Bo Staff</name><set>Core</set></card>
+		<card><name id="doublekatanas">Double Katanas</name><set>Core</set></card>
+		<card><name id="doublesai">Double Sai</name><set>Core</set></card>
+		<card><name id="nunchucks">Nunchucks</name><set>Core</set></card>
+		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
+		<card><name id="baseballbat">Baseball Bat</name><set>Core</set></card>
+		<card><name id="robothelper">Robot Helper</name><set>Core</set></card>
+		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
+		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
+		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
+		<card><name id="unstableinvention">Unstable Invention</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
+		<card><name id="assassination">Assassination</name><set>Core</set></card>
+		<card><name id="barricade">Barricade</name><set>Core</set></card>
+		<card><name id="drafting">Drafting</name><set>Core</set></card>
+		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="dragonpunch">Dragon Punch</name><set>Core</set></card>
+		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
+		<card><name id="punch">Punch</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="invade">Invade</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>
+		<card><name id="leo,leonardo">Leo</name><set>TMNT</set></card>
+		<card><name id="mastersplinter">Master Splinter</name><set>TMNT</set></card>
+		<card><name id="mikey,michelangelo">Mikey</name><set>TMNT</set></card>
+		<card><name id="ralph,raphael">Ralph</name><set>TMNT</set></card>
+	</superzone>
+</deck>

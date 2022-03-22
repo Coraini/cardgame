@@ -1,4 +1,6 @@
 Name	Set	Imgfile	Type	Keyword	Class
+Shadow Ally	Core	shadowally	Ally		Ninja
+Bouncer	Core	bouncer	Ally		
 Foot Clan	Core	footclan	Ally		Mook
 Hidrer Soldiers	Core	hirdrersoldiers	Ally		Mook
 Living Baseball	Core	Livingbaseball	Ally		Robot

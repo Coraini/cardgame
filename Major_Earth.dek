@@ -57,12 +57,12 @@
 		<card><name id="baseweneedhelp">Base, We Need Help!</name><set>Core</set></card>
 		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
 		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
-		<card><name id="displaytheircowardice">Display Their Cowardice</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="gorosuzuki,kanoshugenja">Goro Suzuki</name><set>Major</set></card>

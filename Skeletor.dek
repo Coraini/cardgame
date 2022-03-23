@@ -20,10 +20,6 @@
 		<card><name id="frighten">Frighten</name><set>Core</set></card>
 		<card><name id="frighten">Frighten</name><set>Core</set></card>
 		<card><name id="frighten">Frighten</name><set>Core</set></card>
-		<card><name id="frighten">Frighten</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="dodge">Dodge</name><set>Core</set></card>
@@ -63,6 +59,10 @@
 		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
 		<card><name id="curse">Curse</name><set>Core</set></card>
 		<card><name id="curse">Curse</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>

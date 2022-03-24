@@ -77,7 +77,7 @@
 <definition><kind>NUMDIGITSINSTAT</kind><value>3</value></definition>
 <definition><kind>RULEBOOKFILE</kind><value>rulebook.pdf</value></definition>
 <definition><kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind><value>others</value></definition>
-
+<definition><kind>GRIDSIZE</kind><value>.01</value></definition>
 
 
 </plugin>

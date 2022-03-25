@@ -32,14 +32,6 @@
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
 		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="scare">Scare</name><set>Core</set></card>
-		<card><name id="aim">Aim</name><set>Core</set></card>
-		<card><name id="aim">Aim</name><set>Core</set></card>
-		<card><name id="aim">Aim</name><set>Core</set></card>
-		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
@@ -63,6 +55,14 @@
 		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
 		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
 		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
+		<card><name id="Ban">Ban</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="modoreddo,mechaeagle">Modoreddo</name><set>Excalibur</set></card>

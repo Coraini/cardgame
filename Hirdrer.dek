@@ -25,6 +25,7 @@
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
 		<card><name id="nighttalon">Night Talon</name><set>Excalibur</set></card>
 		<card><name id="blackgriffon">Black Griffon</name><set>Excalibur</set></card>
@@ -48,6 +49,7 @@
 		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
+		<card><name id="reinforcements">Reinforcements</name><set>Core</set></card>
 		<card><name id="shadowally">Shadow Ally</name><set>Core</set></card>
 		<card><name id="doctorobular">Doctor Obular</name><set>Core</set></card>
 		<card><name id="beta">Beta</name><set>Core</set></card>
@@ -55,8 +57,6 @@
 		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
 		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
 		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
-		<card><name id="Ban">Ban</name><set>Core</set></card>
-		<card><name id="Ban">Ban</name><set>Core</set></card>
 		<card><name id="Ban">Ban</name><set>Core</set></card>
 		<card><name id="Ban">Ban</name><set>Core</set></card>
 		<card><name id="Ban">Ban</name><set>Core</set></card>

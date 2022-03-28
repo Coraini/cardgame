@@ -1,5 +1,5 @@
 SMS	08-31-22
-Files
+
 plugins/SMS/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/pluginpreferences.txt	22
 plugins/SMS/formats.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/formats.txt	863	
 plugins/SMS/plugininfo.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/plugininfo.txt	999	
@@ -8,7 +8,6 @@ plugins/SMS/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.co
 plugins/SMS/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/spawned.jpg	777	
 plugins/SMS/rulebook.pdf	https://raw.githubusercontent.com/Coraini/cardgame/main/rulebook.pdf	999	
 
-Decks
 plugins/SMS/decks/Skeletor.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Skeletor.dek	221
 plugins/SMS/decks/Heman.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Heman.dek	221
 plugins/SMS/decks/Major_Earth.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Major_Earth.dek	221
@@ -20,7 +19,6 @@ plugins/SMS/decks/Shredder_Comics.dek	https://raw.githubusercontent.com/Coraini/
 plugins/SMS/decks/Shredder_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Cartoon.dek	221
 plugins/SMS/decks/Shredder_Mouser.dek.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Mouser.dek	221
 
-Cards
 plugins/SMS/sets/setimages/tmnt/cowabunga.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cowabunga.jpg	777
 
 CardGeneralURLs: 

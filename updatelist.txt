@@ -1,5 +1,4 @@
 SMS	08-31-22
-
 Files
 plugins/SMS/pluginpreferences.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/pluginpreferences.txt	22
 plugins/SMS/formats.txt	https://raw.githubusercontent.com/Coraini/cardgame/main/formats.txt	863	

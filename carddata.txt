@@ -72,8 +72,8 @@ Barricade	Core	barricade	Mission
 Let's Settle This	Core	letssettlethis	Mission		
 Lab Robbery	Core	labrobbery	Mission		
 Bank Robbery	Core	bankrobbery	Mission		
-Heroes' Reference	Core	heroesturn	Reference		
-VIllains' Reference	Core	villainsturn	Reference		
+Heroes' Reference	Core	heroesturn,heroespath	Reference		
+VIllains' Reference	Core	villainsturn,villainspath	Reference		
 Armored Car	Core	armoredcar	Vehicle		
 Attack Plane	Core	attackplane	Vehicle	Ship	
 Baseball Bat	Core	baseballbat	Equipment		

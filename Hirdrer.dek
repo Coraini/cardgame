@@ -26,6 +26,7 @@
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
+		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
 		<card><name id="nighttalon">Night Talon</name><set>Excalibur</set></card>
 		<card><name id="blackgriffon">Black Griffon</name><set>Excalibur</set></card>
@@ -55,7 +56,6 @@
 		<card><name id="beta">Beta</name><set>Core</set></card>
 		<card><name id="drafting">Drafting</name><set>Core</set></card>
 		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
-		<card><name id="labrobbery">Lab Robbery</name><set>Core</set></card>
 		<card><name id="hanzoskatana">Hanzo&apos;s Katana</name><set>Core</set></card>
 		<card><name id="Ban">Ban</name><set>Core</set></card>
 		<card><name id="Ban">Ban</name><set>Core</set></card>
@@ -67,6 +67,6 @@
 	<superzone name="Initial Cards">
 		<card><name id="modoreddo,mechaeagle">Modoreddo</name><set>Excalibur</set></card>
 		<card><name id="mogan">Mogan</name><set>Excalibur</set></card>
-		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="villainsturn,villainspath">VIllains&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

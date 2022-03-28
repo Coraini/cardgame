@@ -69,6 +69,7 @@
 <cardfunction><label>Heal</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind></cardfunction>
+<label>Spawn Card</label><kind>SPAWNCARD</kind>
 <cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
 
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>

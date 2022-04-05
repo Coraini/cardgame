@@ -29,8 +29,6 @@
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
-		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
-		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="blackhandoffate">Black Hand of Fate</name><set>Major</set></card>
 		<card><name id="blackhandoffate">Black Hand of Fate</name><set>Major</set></card>
 		<card><name id="earthprotector">Earth Potector</name><set>Major</set></card>
@@ -63,6 +61,8 @@
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
+		<card><name id="readyforaction">Ready For Action</name><set>Core</set></card>
+		<card><name id="readyforaction">Ready For Action</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="gorosuzuki,kanoshugenja">Goro Suzuki</name><set>Major</set></card>
@@ -70,7 +70,7 @@
 		<card><name id="tsuchihirama,chinoshugenja">Tsuchi Hirama</name><set>Major</set></card>
 		<card><name id="zaishukusaragi,kunoshugenja">Zaishu Kusaragi</name><set>Major</set></card>
 		<card><name id="dragontemple">Dragon Temple</name><set>Major</set></card>
-		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
+		<card><name id="heroesturn,heroespath">Heroes&apos; Reference</name><set>Core</set></card>
 		<card><name id="mizunorin,suinoshugenja">Mizuno Rin</name><set>Major</set></card>
 	</superzone>
 </deck>

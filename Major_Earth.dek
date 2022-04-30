@@ -22,7 +22,6 @@
 		<card><name id="slycat">Sly Cat</name><set>Core</set></card>
 		<card><name id="turtle">Turtle</name><set>Core</set></card>
 		<card><name id="turtle">Turtle</name><set>Core</set></card>
-		<card><name id="turtle">Turtle</name><set>Core</set></card>
 		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
 		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
 		<card><name id="workshop">Workshop</name><set>Core</set></card>
@@ -63,6 +62,7 @@
 		<card><name id="letssettlethis">Let&apos;s Settle This</name><set>Core</set></card>
 		<card><name id="readyforaction">Ready For Action</name><set>Core</set></card>
 		<card><name id="readyforaction">Ready For Action</name><set>Core</set></card>
+		<card><name id="doctorobular">Doctor Obular</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="gorosuzuki,kanoshugenja">Goro Suzuki</name><set>Major</set></card>

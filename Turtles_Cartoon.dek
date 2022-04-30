@@ -60,9 +60,9 @@
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="invade">Invade</name><set>Core</set></card>
 		<card><name id="secretoftheooze">Secret of the Ooze</name><set>TMNT</set></card>
-		<card><name id="doctorobular">Doctor Obular</name><set>Core</set></card>
 		<card><name id="slycat">Sly Cat</name><set>Core</set></card>
 		<card><name id="waspswarm">Wasp Swarm</name><set>Core</set></card>
+		<card><name id="shadowally">Shadow Ally</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="donnie,donatello">Donnie</name><set>TMNT</set></card>
@@ -79,6 +79,6 @@
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
 		<card><name id="tokenvehicle">Token Vehicle</name><set>Core</set></card>
-		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
+		<card><name id="heroesturn,heroespath">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

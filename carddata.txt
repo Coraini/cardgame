@@ -10,7 +10,7 @@ Sly Cat	Core	slycat	Ally		Animal
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
 Beta	Core	beta	Ally	Hero	Robot
-Doctor Obular	Core	doctorobular	Ally		Alien
+Doctor Obular	Core	doctorobular	Ally	Sentai	Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
 Military Commander	Core	militarycommander	Ally		Soldier
 Artillery Officer	Core	artilleryofficer	Ally		Soldier

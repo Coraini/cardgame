@@ -71,6 +71,9 @@
 		<card><name id="mikey,michelangelo">Mikey</name><set>TMNT</set></card>
 		<card><name id="ralph,raphael">Ralph</name><set>TMNT</set></card>
 		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
-		<card><name id="heroesturn">Heroes&apos; Reference</name><set>Core</set></card>
+		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
+		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
+		<card><name id="cowabunga">Cowabunga!</name><set>TMNT</set></card>
+		<card><name id="heroesturn,heroespath">Heroes&apos; Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

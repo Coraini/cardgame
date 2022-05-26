@@ -93,6 +93,7 @@ Token Vehicle	Core	tokenvehicle	Vehicle
 Ready For Action	Core	readyforaction	Event		
 Ban	Core	Ban	Combat Move		
 Late Arrival	Core	latearrival	Combat Move		
+Backward Thrust	Core	backwardthrust	Mission		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

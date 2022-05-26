@@ -12,7 +12,6 @@
 		<card><name id="cerberusmouser">Cerberus Mouser</name><set>TMNT</set></card>
 		<card><name id="cerberusmouser">Cerberus Mouser</name><set>TMNT</set></card>
 		<card><name id="cerberusmouser">Cerberus Mouser</name><set>TMNT</set></card>
-		<card><name id="cerberusmouser">Cerberus Mouser</name><set>TMNT</set></card>
 		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
 		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
 		<card><name id="mouser">Mouser</name><set>TMNT</set></card>
@@ -63,10 +62,12 @@
 		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
 		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
 		<card><name id="villainsmonologue">Villain&apos;s Monologue</name><set>Core</set></card>
+		<card><name id="workshop">Workshop</name><set>Core</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
 		<card><name id="orokusaki">Oroku Saki</name><set>TMNT</set></card>
-		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="villainsturn,villainspath">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="typereference">Types Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

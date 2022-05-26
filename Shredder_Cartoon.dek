@@ -68,5 +68,6 @@
 		<card><name id="shredder,supershredder">Sheredder</name><set>TMNT</set></card>
 		<card><name id="krang">Krang</name><set>TMNT</set></card>
 		<card><name id="villainsturn,villainspath">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="typereference">Types Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

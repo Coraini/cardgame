@@ -67,6 +67,7 @@
 	<superzone name="Initial Cards">
 		<card><name id="skeletor,skeletron">Skeletor</name><set>Greyskull</set></card>
 		<card><name id="snakemountain">Snake Mountain</name><set>Greyskull</set></card>
-		<card><name id="villainsturn">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="villainsturn,villainspath">VIllains&apos; Reference</name><set>Core</set></card>
+		<card><name id="typereference">Types Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

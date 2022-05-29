@@ -17,6 +17,7 @@ plugins/SMS/decks/Shredder_Comics.dek	https://raw.githubusercontent.com/Coraini/
 plugins/SMS/decks/Shredder_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Cartoon.dek	221
 plugins/SMS/decks/Shredder_Mouser.dek.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Mouser.dek	221
 plugins/SMS/sets/setimages/tmnt/cowabunga.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cowabunga.jpg	777
+plugins/SMS/sets/setimages/tmnt/machete.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/machete.jpg	777
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

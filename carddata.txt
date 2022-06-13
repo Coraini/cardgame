@@ -74,7 +74,7 @@ Lab Robbery	Core	labrobbery	Mission
 Bank Robbery	Core	bankrobbery	Mission		
 Heroes' Reference	Core	heroesturn,heroespath	Reference		
 VIllains' Reference	Core	villainsturn,villainspath	Reference		
-Types Reference	Core	typereference	Reference		
+Types Reference	Core	typereference,combatoutline	Reference		
 Armored Car	Core	armoredcar	Vehicle		
 Attack Plane	Core	attackplane	Vehicle	Ship	
 Baseball Bat	Core	baseballbat	Equipment		
@@ -93,7 +93,7 @@ Token Vehicle	Core	tokenvehicle	Vehicle
 Ready For Action	Core	readyforaction	Event		
 Ban	Core	Ban	Combat Move		
 Late Arrival	Core	latearrival	Combat Move		
-Backward Thrust	Core	backwardthrust	Mission		
+Nunchucks	Core	backwardthrust	Mission		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

@@ -20,7 +20,7 @@ plugins/SMS/sets/setimages/tmnt/cowabunga.jpg	https://raw.githubusercontent.com/
 plugins/SMS/sets/setimages/Excalibur/machete.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/machete.jpg	1525
 plugins/SMS/sets/setimages/Core/nunchucks.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/nunchucks.jpg	777
 plugins/SMS/sets/setimages/Core/doctorobular.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/doctorobular.jpg	777
-plugins/SMS/sets/setimages/Core/leaderintervention.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/leaderintervention.jpg	777
+plugins/SMS/sets/setimages/Core/leaderintervnetion.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/leaderintervnetion.jpg	777
 plugins/SMS/sets/setimages/Excalibur/nighttalon.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/nighttalon.jpg	777
 plugins/SMS/sets/setimages/Excalibur/sirransuroto.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/sirransuroto.jpg	777
 plugins/SMS/sets/setimages/Core/militarycommander.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/militarycommander.jpg	777

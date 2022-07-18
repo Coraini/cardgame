@@ -26,6 +26,10 @@ plugins/SMS/sets/setimages/Excalibur/nighttalon.jpg	https://raw.githubuserconten
 plugins/SMS/sets/setimages/Excalibur/sirransuroto.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/sirransuroto.jpg	777
 plugins/SMS/sets/setimages/Core/militarycommander.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/militarycommander.jpg	777
 plugins/SMS/sets/setimages/Core/attackplane.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/attackplane.jpg	777
+plugins/SMS/sets/setimages/Core/labrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/labrobbery.jpg	777
+plugins/SMS/sets/setimages/Core/bankrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/bankrobbery.jpg	777
+
+
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

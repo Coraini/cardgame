@@ -25,10 +25,8 @@
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
-		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
-		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
-		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
-		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
 		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
@@ -55,6 +53,8 @@
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
+		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>
 		<card><name id="impede">Impede</name><set>Core</set></card>

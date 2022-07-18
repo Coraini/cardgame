@@ -28,6 +28,7 @@ plugins/SMS/sets/setimages/Core/militarycommander.jpg	https://raw.githubusercont
 plugins/SMS/sets/setimages/Core/attackplane.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/attackplane.jpg	777
 plugins/SMS/sets/setimages/Core/labrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/labrobbery.jpg	777
 plugins/SMS/sets/setimages/Core/bankrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/bankrobbery.jpg	777
+plugins/SMS/sets/setimages/Core/kidnapping.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/kidnapping.jpg	777
 
 
 

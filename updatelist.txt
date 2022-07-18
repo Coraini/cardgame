@@ -30,7 +30,5 @@ plugins/SMS/sets/setimages/Core/labrobbery.jpg	https://raw.githubusercontent.com
 plugins/SMS/sets/setimages/Core/bankrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/bankrobbery.jpg	777
 plugins/SMS/sets/setimages/Core/kidnapping.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/kidnapping.jpg	777
 
-
-
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

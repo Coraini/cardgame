@@ -94,6 +94,7 @@ Ready For Action	Core	readyforaction	Event
 Ban	Core	Ban	Combat Move		
 Late Arrival	Core	latearrival	Combat Move		
 Nunchucks	Core	backwardthrust	Mission		
+Prevent	Core	prevent	Mission	Hero	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

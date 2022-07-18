@@ -19,10 +19,8 @@
 		<card><name id="mortalcombathammer">Mortal Combat Hammer</name><set>Core</set></card>
 		<card><name id="armoredcar">Armored Car</name><set>Core</set></card>
 		<card><name id="attackplane">Attack Plane</name><set>Core</set></card>
-		<card><name id="invade">Invade</name><set>Core</set></card>
-		<card><name id="invade">Invade</name><set>Core</set></card>
-		<card><name id="invade">Invade</name><set>Core</set></card>
-		<card><name id="invade">Invade</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
 		<card><name id="expel">Expel</name><set>Core</set></card>
@@ -42,12 +40,14 @@
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="aim">Aim</name><set>Core</set></card>
+		<card><name id="aim">Aim</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="artilleryofficer">Artillery Officer</name><set>Core</set></card>
 		<card><name id="militarycommander">Military Commander</name><set>Core</set></card>
+		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>
 		<card><name id="militarysoldier">Military Soldier</name><set>Core</set></card>

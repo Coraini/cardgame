@@ -17,19 +17,7 @@ plugins/SMS/decks/Shredder_Comics.dek	https://raw.githubusercontent.com/Coraini/
 plugins/SMS/decks/Shredder_Cartoon.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Cartoon.dek	221
 plugins/SMS/decks/Shredder_Mouser.dek.dek	https://raw.githubusercontent.com/Coraini/cardgame/main/Shredder_Mouser.dek	221
 
-plugins/SMS/sets/setimages/tmnt/cowabunga.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/cowabunga.jpg	777
-plugins/SMS/sets/setimages/Excalibur/machete.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/machete.jpg	1525
-plugins/SMS/sets/setimages/Core/nunchucks.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/nunchucks.jpg	777
-plugins/SMS/sets/setimages/Core/doctorobular.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/doctorobular.jpg	777
-plugins/SMS/sets/setimages/Core/leaderintervnetion.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/leaderintervnetion.jpg	777
-plugins/SMS/sets/setimages/Excalibur/nighttalon.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/nighttalon.jpg	777
-plugins/SMS/sets/setimages/Excalibur/sirransuroto.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/sirransuroto.jpg	777
-plugins/SMS/sets/setimages/Core/militarycommander.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/militarycommander.jpg	777
-plugins/SMS/sets/setimages/Core/attackplane.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/attackplane.jpg	777
-plugins/SMS/sets/setimages/Core/labrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/labrobbery.jpg	777
-plugins/SMS/sets/setimages/Core/bankrobbery.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/bankrobbery.jpg	777
-plugins/SMS/sets/setimages/Core/kidnapping.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/kidnapping.jpg	777
-plugins/SMS/sets/setimages/Core/puttypatrollers.jpg	https://raw.githubusercontent.com/Coraini/cardgame/main/puttypatrollers.jpg	777
+
 
 CardGeneralURLs: 
 https://raw.githubusercontent.com/Coraini/cardgame/main/

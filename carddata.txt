@@ -96,6 +96,7 @@ Late Arrival	Core	latearrival	Combat Move
 Backward Thrust	Core	backwardthrust	Mission		
 Prevent	Core	prevent	Mission	Hero	
 Deflect	Core	deflect	Combat Other		
+Focus	Core	focus	Combat Other	Hero	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	

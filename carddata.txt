@@ -62,7 +62,7 @@ Mama Help	Core	mamahelp	Event
 Master Healing	Core	masterhealing	Event		
 Recruitment	Core	recruitment	Event		
 Workshop	Core	workshop	Event		
-Display Their Cowardice	Core	displaytheircowardice	Event		
+Display Their Cowardice	Core	displaytheircowardice	Event	Hero	
 Curse	Core	curse	Event	Mage	
 Mission Debrief	Core	missiondebrief	Event		
 Sabotage	Core	sabotage	Mission		

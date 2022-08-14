@@ -95,6 +95,7 @@ Ban	Core	Ban	Combat Move
 Late Arrival	Core	latearrival	Combat Move		
 Backward Thrust	Core	backwardthrust	Mission		
 Prevent	Core	prevent	Mission	Hero	
+Deflect	Core	deflect	Combat Other		
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
@@ -145,7 +146,6 @@ Land Shark	Greyskull	landshark	Vehicle
 Panthor	Greyskull	panthor	Vehicle	Skeletor	
 Sky Sled	Greyskull	skysled	Vehicle	Eternian	
 Skeletor	Greyskull	skeletor,skeletron	Villain	Mage	Villain/Mecha
-Deflect	Greyskull	deflect	Combat Other	Sword of Power	
 Attack Dog	Major	attackdog	Ally		Animal
 Little Fox	Major	littlefox	Ally		Animal
 Black Hand of Fate	Major	blackhandoffate	Combat Bonus	Ku no Shugenja	

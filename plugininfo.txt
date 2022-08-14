@@ -62,7 +62,7 @@
 <cardfunction><label>Employ</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Unemploy</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Flip</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Upgrade</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>1.05</PositionY></cardfunction>
+<cardfunction><label>Upgrade</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.45</PositionX><PositionY>0.05</PositionY></cardfunction>
 <cardfunction><label>Rem. Upg.</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Gain Power</label><kind>ADDCOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton><PositionX>0.05</PositionX><PositionY>0.05</PositionY></cardfunction>
 <cardfunction><label>Lose Power</label><kind>REMOVECOUNTER</kind><color>orange</color><includeasbutton>yes</includeasbutton></cardfunction>

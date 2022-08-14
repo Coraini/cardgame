@@ -53,8 +53,9 @@ Double Katanas	Core	doublekatanas	Equipment
 Double Sai	Core	doublesai	Equipment		
 Bo Staff	Core	bostaff	Equipment		
 Tekagi	Core	tekagi	Equipment		
+Dramatic Resolve	Core	dramaticresolve	Event	Villain	
 Base, We Need Help!	Core	baseweneedhelp	Event		
-Destroy the City	Core	destroythecity	Event		
+Destroy the City	Core	destroythecity	Event	Villain	
 Upgrade!	Core	upgrade	Event	Robot	
 Reinforcements	Core	reinforcements	Event		
 Leader Intervention	Core	leaderintervnetion	Event		

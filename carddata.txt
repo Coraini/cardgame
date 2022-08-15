@@ -67,6 +67,7 @@ Workshop	Core	workshop	Event
 Display Their Cowardice	Core	displaytheircowardice	Event	Hero	
 Curse	Core	curse	Event	Mage	
 Mission Debrief	Core	missiondebrief	Event		
+Charismatic Recruitment	Core	charismaticrecruitment	Mission	Villain	
 Sabotage	Core	sabotage	Mission		
 Kidnapping	Core	kidnapping	Mission		
 Conversion	Core	conversion	Mission		

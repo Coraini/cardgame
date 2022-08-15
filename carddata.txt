@@ -16,6 +16,7 @@ Military Commander	Core	militarycommander	Ally		Soldier
 Artillery Officer	Core	artilleryofficer	Ally		Soldier
 Orko	Core	orko	Ally		Mage
 Robot Clone	Core	robotclone	Ally		Mook
+Envious Lieutenant	Core	enviouslieutenant	Ally	Villain	
 Robot Foot Soldier	Core	robotfootsoldier	Ally		Mook
 Dragon Punch	Core	dragonpunch	Combat Bonus	Hero	
 Immobile	Core	immobile	Combat Bonus		

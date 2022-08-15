@@ -102,6 +102,7 @@ Backward Thrust	Core	backwardthrust	Mission
 Prevent	Core	prevent	Mission	Hero	
 Deflect	Core	deflect	Combat Other		
 Focus	Core	focus	Combat Bonus	Hero	
+Princess Familiar	Excalibur	princessfamiliar	Ally	Marin	
 Excalibur	Excalibur	excalibur	Equipment	Iori Saitama	
 Machete	Excalibur	machete	Equipment	Kyo Spiegel	
 Night Talon	Excalibur	nighttalon	Equipment	Modoreddo	
@@ -219,3 +220,4 @@ Sheredder	TMNT	shredder,supershredder	VIllain
 Leatherhead	TMNT	leatherhead	Ally	Mutant	Animal
 Alopex	TMNT	alopex	Ally	Mutant Ninja	Animal
 Media Attention	TMNT	mediaattention	Mission	Mutant Turtle	
+In the Domains of the Rat King	TMNT	inthedomainsoftheratking	Mission	Shredder	

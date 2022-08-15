@@ -9,7 +9,7 @@ Putty Patrollers	Core	puttypatrollers	Ally		Mook
 Sly Cat	Core	slycat	Ally		Animal
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
-Beta	Core	beta	Ally	Hero	Robot
+Beta	Core	beta	Ally		Robot
 Doctor Obular	Core	doctorobular	Ally	Sentai	Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
 Military Commander	Core	militarycommander	Ally		Soldier

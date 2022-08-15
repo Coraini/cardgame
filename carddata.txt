@@ -9,6 +9,7 @@ Putty Patrollers	Core	puttypatrollers	Ally		Mook
 Sly Cat	Core	slycat	Ally		Animal
 Turtle	Core	turtle	Ally		Animal
 Wasp Swarm	Core	waspswarm	Ally		Animal
+Champion of Glory	Core	championofglory	Ally	Villain	
 Beta	Core	beta	Ally		Robot
 Doctor Obular	Core	doctorobular	Ally	Sentai	Alien
 Military Soldier	Core	militarysoldier	Ally		Soldier
@@ -136,6 +137,7 @@ Whiplash	Greyskull	whiplash	Ally	Skeletor
 Kobra Khan	Greyskull	kobrakhan	Ally	Skeletor	
 Zodac	Greyskull	zodac	Ally		
 On Open Grounds	Greyskull	onopengrounds	Combat Other		
+Maniacal Laughter	Greyskull	maniacallaughter	Skeletor		
 Final Monologue	Greyskull	finalmonologue	Combat Other		
 Sword of Power	Greyskull	swordofpower	Equipment	Prince Adam	
 Havoc Staff	Greyskull	havocstaff	Equipment	Skeletor	

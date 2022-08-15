@@ -54,6 +54,7 @@ Double Sai	Core	doublesai	Equipment
 Bo Staff	Core	bostaff	Equipment		
 Tekagi	Core	tekagi	Equipment		
 Dramatic Resolve	Core	dramaticresolve	Event	Villain	
+War Cry	Core	warcry	Event	Hero	
 Base, We Need Help!	Core	baseweneedhelp	Event		
 Destroy the City	Core	destroythecity	Event	Villain	
 Upgrade!	Core	upgrade	Event	Robot	

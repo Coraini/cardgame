@@ -114,6 +114,7 @@ Kyo Spiegel	Excalibur	kyospiegel,sirgarahaddo	Hero	Green Sentai	Hero/Changed
 Marin	Excalibur	marin	Leader	Hero	
 Mogan	Excalibur	mogan	Leader	Modoreddo	
 Metal Knight	Excalibur	metalknight	Super Ally		Mecha
+Green Knight	Excalibur	greenknight	Mogan		
 Black Griffon	Excalibur	blackgriffon	Vehicle	Black Sentai	
 Green Steed	Excalibur	greeensteed	Vehicle	Green Sentai	
 Yellow Steed	Excalibur	yellowsteed	Vehicle	Yelow Sentai	

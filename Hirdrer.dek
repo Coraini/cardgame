@@ -26,7 +26,6 @@
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
-		<card><name id="hirdrersoldiers">Hidrer Soldiers</name><set>Core</set></card>
 		<card><name id="sendmemyweapon">Send Me My Weapon</name><set>Excalibur</set></card>
 		<card><name id="nighttalon">Night Talon</name><set>Excalibur</set></card>
 		<card><name id="blackgriffon">Black Griffon</name><set>Excalibur</set></card>
@@ -63,11 +62,12 @@
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
 		<card><name id="kick">Kick</name><set>Core</set></card>
+		<card><name id="greenknight">Green Knight</name><set>Excalibur</set></card>
 	</superzone>
 	<superzone name="Initial Cards">
 		<card><name id="modoreddo,mechaeagle">Modoreddo</name><set>Excalibur</set></card>
 		<card><name id="mogan">Mogan</name><set>Excalibur</set></card>
 		<card><name id="villainsturn,villainspath">VIllains&apos; Reference</name><set>Core</set></card>
-		<card><name id="typereference">Types Reference</name><set>Core</set></card>
+		<card><name id="typereference,combatoutline">Types Reference</name><set>Core</set></card>
 	</superzone>
 </deck>

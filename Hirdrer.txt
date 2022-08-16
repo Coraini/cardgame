@@ -1,0 +1,19 @@
+20	Hidrer Soldiers ok 20
+3	Send Me My Weapon ok 3
+3	Master Healing ok 3
+1	Night Talon ok 1
+1	Armored Car ok 1
+1	Attack Plane ok 1
+1	Black Griffon ok 1
+1	Hanzo's Katana ok 1
+1	Mortal Combat Hammer ok 1
+1	Sly Cat ok 1
+1	Turtle ok 1
+1	Wasp Swarm ok 1
+4	Scare ok 4
+4	Target an Enemy ok 4
+4	Aim ok 4
+3	Recruitment ok 3
+Initial Cards:
+1	Modoreddo ok
+1	Mogan ok
